@@ -8,9 +8,9 @@ DESENVOLVIMENTO DE SOFTWARE PARA EMPRESA TECSUS.
    - Fornecer suporte para a criação de um software......
   
   
- - **Objetivo:**
-  - 
-  - 
+ - **Objetivo do Produto:** 
+   - 
+  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzM5Nzk4M119
+eyJoaXN0b3J5IjpbMTgyNzExNzI1Nl19
 -->
