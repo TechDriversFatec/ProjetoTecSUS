@@ -25,15 +25,16 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 ---
 ### DEV TEAM
 - [Mateus](https://github.com/mateuscamargo)
-- [Glauco](https://github.com/glaucofidelix)
+- [Isidro](https://github.com/Isidro013)
 - [Vitor](https://github.com/assenvitor)
 - [Flavio](https://github.com/twofap2)
-- [Felipe](https://github.com/FelipeNunis)
+- [Lucas](https://github.com/FelipeNunis)
+- [Pedro](https://github.com/FelipeNunis)
  ---
 ### SCRUM MASTER
 
 - [Rafael](github.com/RafaelRCLima)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjMxMzg1NCwtMTE1MDA1NDcxNywtMT
-Y5MTgzMzQwMSwtMTcxMTU5ODIzNCwtMTIwMzQ0MTg5Nl19
+eyJoaXN0b3J5IjpbODMyNjU5OTEwLC0xMTUwMDU0NzE3LC0xNj
+kxODMzNDAxLC0xNzExNTk4MjM0LC0xMjAzNDQxODk2XX0=
 -->
