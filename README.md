@@ -23,8 +23,17 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 - [AdobeXD](https://www.adobe.com/br/products/xd.html)
 - [StackEdit]( https://stackedit.io/)
 ---
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE1NTM4MTAsLTExNTAwNTQ3MTcsLT
-E2OTE4MzM0MDEsLTE3MTE1OTgyMzQsLTEyMDM0NDE4OTZdfQ==
+### DEV TEAM
+- [Mateus](https://github.com/mateuscamargo)
+- [Glauco](https://github.com/glaucofidelix)
+- [Vitor](https://github.com/assenvitor)
+- [Flavio](https://github.com/twofap2)
+- [Felipe](https://github.com/FelipeNunis)
+ ---
+### SCRUM MASTER
 
+- [Rafael](github.com/RafaelRCLima)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI0MjMxMzg1NCwtMTE1MDA1NDcxNywtMT
+Y5MTgzMzQwMSwtMTcxMTU5ODIzNCwtMTIwMzQ0MTg5Nl19
 -->
