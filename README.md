@@ -30,11 +30,12 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 - [Flavio](https://github.com/twofap2)
 - [Lucas](https://github.com/FelipeNunis)
 - [Pedro](https://github.com/FelipeNunis)
+- [
  ---
 ### SCRUM MASTER
 
 - [Rafael](github.com/RafaelRCLima)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyNjU5OTEwLC0xMTUwMDU0NzE3LC0xNj
+eyJoaXN0b3J5IjpbLTM0NDcxMjQyLC0xMTUwMDU0NzE3LC0xNj
 kxODMzNDAxLC0xNzExNTk4MjM0LC0xMjAzNDQxODk2XX0=
 -->
