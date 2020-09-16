@@ -26,7 +26,6 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 ### DEV TEAM
 - [Mateus](https://github.com/mateuscamargo)
 - [Isidro](https://github.com/Isidro013)
-- [Vitor](https://github.com/assenvitor)
 - [Flavio](https://github.com/twofap2)
 - [Lucas](https://github.com/LucasMonteiiroo)
 - [Pedro](https://github.com/pedrogarcia1910)
@@ -34,8 +33,8 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
  ---
 ### SCRUM MASTER
 
-- [Rafael](github.com/RafaelRCLima)
+- [Vitor](https://github.com/assenvitor)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4NzQzODQ3LC0xMTUwMDU0NzE3LC0xNj
+eyJoaXN0b3J5IjpbNDQ5NDU0MDE0LC0xMTUwMDU0NzE3LC0xNj
 kxODMzNDAxLC0xNzExNTk4MjM0LC0xMjAzNDQxODk2XX0=
 -->
