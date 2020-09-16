@@ -19,12 +19,12 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 ### FERRAMENTAS:
 - [GitHub](https://github.com/mateuscamargo/Roose_App)
 - [Trello](https://trello.com/b/oUfxIrLz/app-roose)
-- [BrModelo](https://draw.io)
+- [BrModelo2.0](https://baixe.net/baixar/down4373.html)
 - [AdobeXD](https://www.adobe.com/br/products/xd.html)
 - [StackEdit]( https://stackedit.io/)
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQ1MzQ4NDcsLTExNTAwNTQ3MTcsLT
+eyJoaXN0b3J5IjpbLTE1NzE1NTM4MTAsLTExNTAwNTQ3MTcsLT
 E2OTE4MzM0MDEsLTE3MTE1OTgyMzQsLTEyMDM0NDE4OTZdfQ==
 
 -->
