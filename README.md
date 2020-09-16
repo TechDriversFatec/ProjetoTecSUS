@@ -22,7 +22,7 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 - [BrModelo2.0](https://baixe.net/baixar/down4373.html)
 - [AdobeXD](https://www.adobe.com/br/products/xd.html)
 - [StackEdit]( https://stackedit.io/)
-- [Ecplise]()
+- [Ecplise](https://www.eclipse.org/downloads/)
 ---
 ### DEV TEAM
 - [Mateus](https://github.com/mateuscamargo)
@@ -37,7 +37,6 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzI5NjU5MzMsLTExNTAwNTQ3MTcsLT
-E2OTE4MzM0MDEsLTE3MTE1OTgyMzQsLTEyMDM0NDE4OTZdfQ==
-
+eyJoaXN0b3J5IjpbODIwNjg0NTU5LC0xMTUwMDU0NzE3LC0xNj
+kxODMzNDAxLC0xNzExNTk4MjM0LC0xMjAzNDQxODk2XX0=
 -->
