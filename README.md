@@ -28,14 +28,14 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 - [Isidro](https://github.com/Isidro013)
 - [Vitor](https://github.com/assenvitor)
 - [Flavio](https://github.com/twofap2)
-- [Lucas](https://github.com/FelipeNunis)
-- [Pedro](https://github.com/FelipeNunis)
-- [
+- [Lucas](https://github.com/LucasMonteiiroo)
+- [Pedro](https://github.com/pedrogarcia1910)
+- [Isarael](https://github.com/israelaguiar)
  ---
 ### SCRUM MASTER
 
 - [Rafael](github.com/RafaelRCLima)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDcxMjQyLC0xMTUwMDU0NzE3LC0xNj
+eyJoaXN0b3J5IjpbNjY4NzQzODQ3LC0xMTUwMDU0NzE3LC0xNj
 kxODMzNDAxLC0xNzExNTk4MjM0LC0xMjAzNDQxODk2XX0=
 -->
