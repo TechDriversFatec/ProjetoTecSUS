@@ -9,8 +9,8 @@ DESENVOLVIMENTO DE SOFTWARE PARA EMPRESA TECSUS.
   
   
  - **Objetivo do Produto:** 
-   - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-  
+   - Sanar e simplificar o cadastro de informações pelos digitadores, fazendo com que eles .
+   -   
 - **Problema (Desafio):** 
 	- A TecSUS realiza a gestão de contas de utilidades (água e energia) dos seus clientes. Todos os meses milhares de contas devem ser digitadas manualmente no sistema para a realização de análises de contratos e análises de consumo.
 Desta forma, para facilitar a digitação das contas precisamos de um sistema que permita o cadastro de cada conta de forma rápida e ágil, sem a necessidade de utilização do mouse, apenas por comandos do teclado.
@@ -37,6 +37,7 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwNjg0NTU5LC0xMTUwMDU0NzE3LC0xNj
-kxODMzNDAxLC0xNzExNTk4MjM0LC0xMjAzNDQxODk2XX0=
+eyJoaXN0b3J5IjpbLTE1MjA2MjA5Miw4MjA2ODQ1NTksLTExNT
+AwNTQ3MTcsLTE2OTE4MzM0MDEsLTE3MTE1OTgyMzQsLTEyMDM0
+NDE4OTZdfQ==
 -->
