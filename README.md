@@ -17,16 +17,12 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 
 ---
 ### FERRAMENTAS:
-
+- [GitHub](https://github.com/mateuscamargo/Roose_App)
 - [Trello](https://trello.com/b/oUfxIrLz/app-roose)
 - [BrModelo2.0](https://baixe.net/baixar/down4373.html)
-
+- [AdobeXD](https://www.adobe.com/br/products/xd.html)
 - [StackEdit]( https://stackedit.io/)
 - [Ecplise](https://www.eclipse.org/downloads/)
-|  [GitHub](https://github.com/mateuscamargo/Roose_App) |  | [Trello]|(https://trello.com/b/oUfxIrLz/app-roose)
-|- [BrModelo2.0](https://baixe.net/baixar/down4373.html)| [AdobeXD](https://www.adobe.com/br/products/xd.html)|
-|  |  |
-
 - [MySql](https://www.mysql.com/)
 ---
 ### DEV TEAM
@@ -42,7 +38,7 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjM0NzEyLC00MzMwOTY3MjEsODIwNj
+eyJoaXN0b3J5IjpbLTE5NzYzNDExLC00MzMwOTY3MjEsODIwNj
 g0NTU5LC0xMTUwMDU0NzE3LC0xNjkxODMzNDAxLC0xNzExNTk4
 MjM0LC0xMjAzNDQxODk2XX0=
 -->
