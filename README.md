@@ -23,6 +23,7 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 - [AdobeXD](https://www.adobe.com/br/products/xd.html)
 - [StackEdit]( https://stackedit.io/)
 - [Ecplise](https://www.eclipse.org/downloads/)
+- [MySql](https://www.mysql.com/)
 ---
 ### DEV TEAM
 - [Mateus](https://github.com/mateuscamargo)
@@ -37,7 +38,7 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzA5NjcyMSw4MjA2ODQ1NTksLTExNT
-AwNTQ3MTcsLTE2OTE4MzM0MDEsLTE3MTE1OTgyMzQsLTEyMDM0
-NDE4OTZdfQ==
+eyJoaXN0b3J5IjpbLTE5NzYzNDExLC00MzMwOTY3MjEsODIwNj
+g0NTU5LC0xMTUwMDU0NzE3LC0xNjkxODMzNDAxLC0xNzExNTk4
+MjM0LC0xMjAzNDQxODk2XX0=
 -->
