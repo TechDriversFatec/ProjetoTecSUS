@@ -2,8 +2,8 @@
 
 DESENVOLVIMENTO DE SOFTWARE PARA EMPRESA TECSUS.
 
-- **Nome do Grupo:** 
-- **Nome do Software:** 
+- **Nome do Grupo:** Fatec Cloud
+- **Nome do Software:** TecSUS
 - **Visão do Produto:** 
    - Fornecer suporte para a criação de um software, onde o usuário terá uma facilidade em inserir os dados das contas que serão utilizadas caso surja a necessidade de ser feito manualmente, assim melhorando a experiência no usuário.
   
