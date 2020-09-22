@@ -28,9 +28,9 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 ### DEV TEAM
 - [Mateus](https://github.com/mateuscamargo)
 - [Isidro](https://github.com/Isidro013)
-- [Flavio](https://github.com/twofap2)
+- [Flavio](https://github.com/flavioalepereira)
 - [Pedro](https://github.com/pedrogarcia1910)
-- [Isarael](https://github.com/israelaguiar)
+- [Israel](https://github.com/israelaguiar)
  ---
 ### SCRUM MASTER
 - [Vitor](https://github.com/assenvitor)
