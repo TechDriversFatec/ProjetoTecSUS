@@ -28,17 +28,11 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 ### SPRINTS:
 
 - [Sprint 01](https://github.com/assenvitor/ProjetoTecSUS/tree/master/Sprint%2001)
-- [Sprint 02]()
-- [Sprint 03]()
-- [Sprint 04]()
 ---
 
 ### VÍDEO DE APRESENTAÇÃO DAS ENTREGAS:
 
 - [Vídeo 01]()
-- [Vídeo 02]()
-- [Vídeo 03]()
-- [Vídeo 04]()
 ---
 
 ### DEV TEAM
