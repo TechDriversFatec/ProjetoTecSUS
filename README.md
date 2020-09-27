@@ -32,7 +32,7 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 
 ### VÍDEO DE APRESENTAÇÃO DAS ENTREGAS:
 
-- [Vídeo 01]()
+- [Vídeo 01](https://drive.google.com/file/d/15jyLiNlI4ROETPznqx-H09QlZZ691C35/view?usp=sharing)
 ---
 
 ### DEV TEAM
