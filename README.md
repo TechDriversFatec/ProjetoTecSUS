@@ -17,8 +17,8 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 
 ---
 ### FERRAMENTAS:
-- [GitHub](https://github.com/mateuscamargo/Roose_App)
-- [Trello](https://trello.com/b/oUfxIrLz/app-roose)
+- [GitHub](https://github.com/assenvitor/ProjetoTecSUS)
+- [Trello](https://trello.com)
 - [BrModelo2.0](https://baixe.net/baixar/down4373.html)
 - [AdobeXD](https://www.adobe.com/br/products/xd.html)
 - [StackEdit]( https://stackedit.io/)
