@@ -15,6 +15,11 @@ DESENVOLVIMENTO DE SOFTWARE PARA EMPRESA TECSUS.
 	- A TecSUS realiza a gestão de contas de utilidades (água e energia) dos seus clientes. Todos os meses milhares de contas devem ser digitadas manualmente no sistema para a realização de análises de contratos e análises de consumo.
 Desta forma, para facilitar a digitação das contas precisamos de um sistema que permita o cadastro de cada conta de forma rápida e ágil, sem a necessidade de utilização do mouse, apenas por comandos do teclado.
 
+- **Proposta:**
+
+	- Após contato com a empresa, levantamos que as dificuldades ocorrem porque as empresas que fornecem energia ou água não seguem os mesmos padrões de dados, pois cada localidade pode ter um fornecedor diferente. Sendo assim será desenvolvido um sistema simples e objetivo, fazendo com que seja ágil e a taxa de erro seja menor.
+
+
 ---
 ### FERRAMENTAS:
 - [GitHub](https://github.com/assenvitor/ProjetoTecSUS)
