@@ -1,6 +1,6 @@
 # Projeto TecSUS - Tecnologias para a Sustentabilidade
 
-DESENVOLVIMENTO DE SOFTWARE PARA EMPRESA TECSUS.
+**DESENVOLVIMENTO DE SOFTWARE PARA EMPRESA TECSUS.**
 
 - **Nome do Grupo:** Fatec Cloud
 - **Nome do Software:** Digi Cont
