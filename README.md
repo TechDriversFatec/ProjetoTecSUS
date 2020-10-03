@@ -1,4 +1,4 @@
-<img src="https://github.com/mateuscamargo/Roose_App/blob/master/images/roose_img.jpng" width="270px" heigth="270px" align="i">
+<img src="https://github.com/assenvitor/ProjetoTecSUS/blob/master/Sprint%2001/Logo/DIGI%20CONT.png?raw=true" width="270px" heigth="270px" align="i">
 
 # Projeto TecSUS - Tecnologias para a Sustentabilidade
 
@@ -55,7 +55,7 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODA5MTE0MCwtNDMzMDk2NzIxLDgyMD
-Y4NDU1OSwtMTE1MDA1NDcxNywtMTY5MTgzMzQwMSwtMTcxMTU5
-ODIzNCwtMTIwMzQ0MTg5Nl19
+eyJoaXN0b3J5IjpbLTExMzcxMTEyNDEsMTIyODA5MTE0MCwtND
+MzMDk2NzIxLDgyMDY4NDU1OSwtMTE1MDA1NDcxNywtMTY5MTgz
+MzQwMSwtMTcxMTU5ODIzNCwtMTIwMzQ0MTg5Nl19
 -->
