@@ -1,3 +1,5 @@
+<img src="https://github.com/mateuscamargo/Roose_App/blob/master/images/roose_img.jpng" width="270px" heigth="270px" align="i">
+
 # Projeto TecSUS - Tecnologias para a Sustentabilidade
 
 **DESENVOLVIMENTO DE SOFTWARE PARA EMPRESA TECSUS.**
@@ -53,7 +55,7 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTI4MTE4MjIsLTQzMzA5NjcyMSw4Mj
-A2ODQ1NTksLTExNTAwNTQ3MTcsLTE2OTE4MzM0MDEsLTE3MTE1
-OTgyMzQsLTEyMDM0NDE4OTZdfQ==
+eyJoaXN0b3J5IjpbMTIyODA5MTE0MCwtNDMzMDk2NzIxLDgyMD
+Y4NDU1OSwtMTE1MDA1NDcxNywtMTY5MTgzMzQwMSwtMTcxMTU5
+ODIzNCwtMTIwMzQ0MTg5Nl19
 -->
