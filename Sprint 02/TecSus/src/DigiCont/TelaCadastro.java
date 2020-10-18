@@ -65,10 +65,11 @@ public class TelaCadastro {
 	 */
 	private void initialize() {
 		frmTelaCadastro = new JFrame();
+		frmTelaCadastro.setResizable(false);
 		frmTelaCadastro.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frmTelaCadastro.getContentPane().setBackground(Color.WHITE);
 		frmTelaCadastro.setForeground(Color.LIGHT_GRAY);
-		frmTelaCadastro.setTitle("Tela Cadastro \u00C1gua");
+		frmTelaCadastro.setTitle("Tela Cadastro de \u00C1gua");
 		frmTelaCadastro.setBounds(100, 100, 960, 720);
 		frmTelaCadastro.getContentPane().setLayout(null);
 		frmTelaCadastro.setLocationRelativeTo(null);
