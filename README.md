@@ -44,6 +44,11 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 - [Vídeo 01](https://drive.google.com/file/d/15jyLiNlI4ROETPznqx-H09QlZZ691C35/view?usp=sharing)
 - [Vídeo 02](https://drive.google.com/file/d/1yMGlzzZ68rYnkbwdPhe_jft0DxHuUz5P/view?usp=sharing)
 ---
+### VÍDEO DE APRESENTAÇÃO DAS ENTREGAS:
+
+- [DigiCont 1.0](https://drive.google.com/file/d/15jyLiNlI4ROETPznqx-H09QlZZ691C35/view?usp=sharing)
+
+---
 
 ### DEV TEAM
 - [Mateus](https://github.com/mateuscamargo)
@@ -58,7 +63,7 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1Mjc1NjExLDE5OTQ1MzM2ODcsLTExND
+eyJoaXN0b3J5IjpbMjg2OTA1MTI2LDE5OTQ1MzM2ODcsLTExND
 U1NTM4MDMsLTExMzcxMTEyNDEsMTIyODA5MTE0MCwtNDMzMDk2
 NzIxLDgyMDY4NDU1OSwtMTE1MDA1NDcxNywtMTY5MTgzMzQwMS
 wtMTcxMTU5ODIzNCwtMTIwMzQ0MTg5Nl19
