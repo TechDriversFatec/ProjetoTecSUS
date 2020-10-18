@@ -44,7 +44,7 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 - [Vídeo 01](https://drive.google.com/file/d/15jyLiNlI4ROETPznqx-H09QlZZ691C35/view?usp=sharing)
 - [Vídeo 02](https://drive.google.com/file/d/1yMGlzzZ68rYnkbwdPhe_jft0DxHuUz5P/view?usp=sharing)
 ---
-### Executáveis:
+### Versões do Software:
 
 - [DigiCont 1.0](https://github.com/assenvitor/ProjetoTecSUS/tree/master/Sprint%2002/Execut%C3%A1vel)
 
@@ -63,7 +63,7 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTg2MTY1MiwxOTk0NTMzNjg3LC0xMT
+eyJoaXN0b3J5IjpbMTcyMTkwMjg5NSwxOTk0NTMzNjg3LC0xMT
 Q1NTUzODAzLC0xMTM3MTExMjQxLDEyMjgwOTExNDAsLTQzMzA5
 NjcyMSw4MjA2ODQ1NTksLTExNTAwNTQ3MTcsLTE2OTE4MzM0MD
 EsLTE3MTE1OTgyMzQsLTEyMDM0NDE4OTZdfQ==
