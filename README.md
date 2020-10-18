@@ -35,12 +35,14 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 ---
 ### SPRINTS:
 
-- [Sprint 01](https://github.com/assenvitor/ProjetoTecSUS/tree/master/Sprint%2001)
+- [Sprint 00](https://github.com/assenvitor/ProjetoTecSUS/tree/master/Sprint%2001)
+- [Sprint 01](https://github.com/assenvitor/ProjetoTecSUS/tree/master/Sprint%2002)
 ---
 
 ### VÍDEO DE APRESENTAÇÃO DAS ENTREGAS:
 
 - [Vídeo 01](https://drive.google.com/file/d/15jyLiNlI4ROETPznqx-H09QlZZ691C35/view?usp=sharing)
+- [Vídeo 02](https://drive.google.com/file/d/1yMGlzzZ68rYnkbwdPhe_jft0DxHuUz5P/view?usp=sharing)
 ---
 
 ### DEV TEAM
@@ -56,8 +58,8 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDUzMzY4NywtMTE0NTU1MzgwMywtMT
-EzNzExMTI0MSwxMjI4MDkxMTQwLC00MzMwOTY3MjEsODIwNjg0
-NTU5LC0xMTUwMDU0NzE3LC0xNjkxODMzNDAxLC0xNzExNTk4Mj
-M0LC0xMjAzNDQxODk2XX0=
+eyJoaXN0b3J5IjpbMTY5NjYyNjg0NSwxOTk0NTMzNjg3LC0xMT
+Q1NTUzODAzLC0xMTM3MTExMjQxLDEyMjgwOTExNDAsLTQzMzA5
+NjcyMSw4MjA2ODQ1NTksLTExNTAwNTQ3MTcsLTE2OTE4MzM0MD
+EsLTE3MTE1OTgyMzQsLTEyMDM0NDE4OTZdfQ==
 -->
