@@ -37,6 +37,7 @@ Na primeira sprint, a equipe realizou a criação de Wireframe e Story Cards. No
 
 - **Proposta:**
 
+**Tempo da Sprint:** 28/09/2020 até 18/10/2020.
 
 ---
 
@@ -73,10 +74,10 @@ Na primeira sprint, a equipe realizou a criação de Wireframe e Story Cards. No
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5NjU0NzkzLDY3ODczNjM4NCw5MTk4NT
-AwMzUsLTM3NDQ1NTYyOCwxNDE2NjkzMDYsMTcyMTkwMjg5NSwx
-OTk0NTMzNjg3LC0xMTQ1NTUzODAzLC0xMTM3MTExMjQxLDEyMj
-gwOTExNDAsLTQzMzA5NjcyMSw4MjA2ODQ1NTksLTExNTAwNTQ3
-MTcsLTE2OTE4MzM0MDEsLTE3MTE1OTgyMzQsLTEyMDM0NDE4OT
-ZdfQ==
+eyJoaXN0b3J5IjpbLTIwMTIyMTQ1ODQsNjc4NzM2Mzg0LDkxOT
+g1MDAzNSwtMzc0NDU1NjI4LDE0MTY2OTMwNiwxNzIxOTAyODk1
+LDE5OTQ1MzM2ODcsLTExNDU1NTM4MDMsLTExMzcxMTEyNDEsMT
+IyODA5MTE0MCwtNDMzMDk2NzIxLDgyMDY4NDU1OSwtMTE1MDA1
+NDcxNywtMTY5MTgzMzQwMSwtMTcxMTU5ODIzNCwtMTIwMzQ0MT
+g5Nl19
 -->
