@@ -30,7 +30,7 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 - **Proposta:**
 A entrega visa passar para o cliente como será os wireframes d
 
----
+
 [Sprint 02](https://github.com/assenvitor/ProjetoTecSUS/tree/master/Sprint%2002)
 
 - **Proposta:**
@@ -71,10 +71,10 @@ A entrega visa passar para o cliente como será os wireframes d
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE5NjE3MzgsNjc4NzM2Mzg0LDkxOT
-g1MDAzNSwtMzc0NDU1NjI4LDE0MTY2OTMwNiwxNzIxOTAyODk1
-LDE5OTQ1MzM2ODcsLTExNDU1NTM4MDMsLTExMzcxMTEyNDEsMT
-IyODA5MTE0MCwtNDMzMDk2NzIxLDgyMDY4NDU1OSwtMTE1MDA1
-NDcxNywtMTY5MTgzMzQwMSwtMTcxMTU5ODIzNCwtMTIwMzQ0MT
-g5Nl19
+eyJoaXN0b3J5IjpbLTUzMTIzNTM4OSw2Nzg3MzYzODQsOTE5OD
+UwMDM1LC0zNzQ0NTU2MjgsMTQxNjY5MzA2LDE3MjE5MDI4OTUs
+MTk5NDUzMzY4NywtMTE0NTU1MzgwMywtMTEzNzExMTI0MSwxMj
+I4MDkxMTQwLC00MzMwOTY3MjEsODIwNjg0NTU5LC0xMTUwMDU0
+NzE3LC0xNjkxODMzNDAxLC0xNzExNTk4MjM0LC0xMjAzNDQxOD
+k2XX0=
 -->
