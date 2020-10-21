@@ -21,18 +21,8 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 - **Proposta:**
 
 	- Após contato com a empresa, levantamos que as dificuldades ocorrem porque as empresas que fornecem energia ou água não seguem os mesmos padrões de dados, pois cada localidade pode ter um fornecedor diferente. Sendo assim será desenvolvido um sistema simples e objetivo, fazendo com que seja ágil e a taxa de erro seja menor.
-
-
 ---
-### FERRAMENTAS:
-- [GitHub](https://github.com/assenvitor/ProjetoTecSUS)
-- [Trello](https://trello.com)
-- [BrModelo2.0](https://baixe.net/baixar/down4373.html)
-- [AdobeXD](https://www.adobe.com/br/products/xd.html)
-- [StackEdit]( https://stackedit.io/)
-- [Ecplise](https://www.eclipse.org/downloads/)
-- [MySql](https://www.mysql.com/)
----
+
 ### SPRINTS:
 
 [Sprint 01](https://github.com/assenvitor/ProjetoTecSUS/tree/master/Sprint%2001)
@@ -58,6 +48,15 @@ A entrega visa passar para o cliente como será os wireframes d
 - [DigiCont 1.0](https://github.com/assenvitor/ProjetoTecSUS/raw/master/Sprint%2002/Execut%C3%A1vel/DigiCont.jar)
 
 ---
+### FERRAMENTAS:
+- [GitHub](https://github.com/assenvitor/ProjetoTecSUS)
+- [Trello](https://trello.com)
+- [BrModelo2.0](https://baixe.net/baixar/down4373.html)
+- [AdobeXD](https://www.adobe.com/br/products/xd.html)
+- [StackEdit]( https://stackedit.io/)
+- [Ecplise](https://www.eclipse.org/downloads/)
+- [MySql](https://www.mysql.com/)
+---
 
 ### DEV TEAM
 - [Mateus](https://github.com/mateuscamargo)
@@ -72,9 +71,10 @@ A entrega visa passar para o cliente como será os wireframes d
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4NzM2Mzg0LDkxOTg1MDAzNSwtMzc0ND
-U1NjI4LDE0MTY2OTMwNiwxNzIxOTAyODk1LDE5OTQ1MzM2ODcs
-LTExNDU1NTM4MDMsLTExMzcxMTEyNDEsMTIyODA5MTE0MCwtND
-MzMDk2NzIxLDgyMDY4NDU1OSwtMTE1MDA1NDcxNywtMTY5MTgz
-MzQwMSwtMTcxMTU5ODIzNCwtMTIwMzQ0MTg5Nl19
+eyJoaXN0b3J5IjpbLTE3OTE5NjE3MzgsNjc4NzM2Mzg0LDkxOT
+g1MDAzNSwtMzc0NDU1NjI4LDE0MTY2OTMwNiwxNzIxOTAyODk1
+LDE5OTQ1MzM2ODcsLTExNDU1NTM4MDMsLTExMzcxMTEyNDEsMT
+IyODA5MTE0MCwtNDMzMDk2NzIxLDgyMDY4NDU1OSwtMTE1MDA1
+NDcxNywtMTY5MTgzMzQwMSwtMTcxMTU5ODIzNCwtMTIwMzQ0MT
+g5Nl19
 -->
