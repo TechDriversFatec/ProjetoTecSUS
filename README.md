@@ -38,6 +38,8 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 [Sprint 01](https://github.com/assenvitor/ProjetoTecSUS/tree/master/Sprint%2001)
 
 - **Proposta:**
+A entrega visa passar para o cliente como será os wireframes d
+
 ---
 [Sprint 02](https://github.com/assenvitor/ProjetoTecSUS/tree/master/Sprint%2002)
 
@@ -70,9 +72,9 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzkxMjkyOTUsOTE5ODUwMDM1LC0zNz
-Q0NTU2MjgsMTQxNjY5MzA2LDE3MjE5MDI4OTUsMTk5NDUzMzY4
-NywtMTE0NTU1MzgwMywtMTEzNzExMTI0MSwxMjI4MDkxMTQwLC
-00MzMwOTY3MjEsODIwNjg0NTU5LC0xMTUwMDU0NzE3LC0xNjkx
-ODMzNDAxLC0xNzExNTk4MjM0LC0xMjAzNDQxODk2XX0=
+eyJoaXN0b3J5IjpbNjc4NzM2Mzg0LDkxOTg1MDAzNSwtMzc0ND
+U1NjI4LDE0MTY2OTMwNiwxNzIxOTAyODk1LDE5OTQ1MzM2ODcs
+LTExNDU1NTM4MDMsLTExMzcxMTEyNDEsMTIyODA5MTE0MCwtND
+MzMDk2NzIxLDgyMDY4NDU1OSwtMTE1MDA1NDcxNywtMTY5MTgz
+MzQwMSwtMTcxMTU5ODIzNCwtMTIwMzQ0MTg5Nl19
 -->
