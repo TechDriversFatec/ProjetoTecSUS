@@ -28,7 +28,6 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 [Sprint 01](https://github.com/assenvitor/ProjetoTecSUS/tree/master/Sprint%2001)
 
 - **Proposta:**
-<![endif]-->
 
 Na primeira sprint, a equipe realizou a criação de Wireframe e Story Cards. Nos wireframes foram colocados os campos necessários para a apresentação para o cliente. Já os Story Cards foram pensados de acordo com as prioridades dos usuários.
 
@@ -74,10 +73,10 @@ Na primeira sprint, a equipe realizou a criação de Wireframe e Story Cards. No
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDMwNDQ5Miw2Nzg3MzYzODQsOTE5OD
-UwMDM1LC0zNzQ0NTU2MjgsMTQxNjY5MzA2LDE3MjE5MDI4OTUs
-MTk5NDUzMzY4NywtMTE0NTU1MzgwMywtMTEzNzExMTI0MSwxMj
-I4MDkxMTQwLC00MzMwOTY3MjEsODIwNjg0NTU5LC0xMTUwMDU0
-NzE3LC0xNjkxODMzNDAxLC0xNzExNTk4MjM0LC0xMjAzNDQxOD
-k2XX0=
+eyJoaXN0b3J5IjpbNjg5NjU0NzkzLDY3ODczNjM4NCw5MTk4NT
+AwMzUsLTM3NDQ1NTYyOCwxNDE2NjkzMDYsMTcyMTkwMjg5NSwx
+OTk0NTMzNjg3LC0xMTQ1NTUzODAzLC0xMTM3MTExMjQxLDEyMj
+gwOTExNDAsLTQzMzA5NjcyMSw4MjA2ODQ1NTksLTExNTAwNTQ3
+MTcsLTE2OTE4MzM0MDEsLTE3MTE1OTgyMzQsLTEyMDM0NDE4OT
+ZdfQ==
 -->
