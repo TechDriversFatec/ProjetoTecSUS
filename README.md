@@ -52,6 +52,11 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 ### Instalação
 
+``
+1º - Instalar Java JDK
+2º 
+``
+
 
 
 
@@ -82,7 +87,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4Mjc1MTk5MywtNzg0MTg5ODUwLC04OD
+eyJoaXN0b3J5IjpbMTIyOTcxMTA0MiwtNzg0MTg5ODUwLC04OD
 AyMDcxMjMsLTYxODM2NzI1NiwtMjAxMjIxNDU4NCw2Nzg3MzYz
 ODQsOTE5ODUwMDM1LC0zNzQ0NTU2MjgsMTQxNjY5MzA2LDE3Mj
 E5MDI4OTUsMTk5NDUzMzY4NywtMTE0NTU1MzgwMywtMTEzNzEx
