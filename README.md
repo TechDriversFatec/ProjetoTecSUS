@@ -36,7 +36,7 @@ Na primeira Sprint, a equipe realizou a criação de Wireframe e Story Cards. No
 [Sprint 02](https://github.com/assenvitor/ProjetoTecSUS/tree/master/Sprint%2002)
 
 - **Proposta:**
-Na segunda Sprint, a equipe realizou a criação de Wireframe e Story Cards. Nos wireframes foram colocados os campos necessários para a apresentação para o cliente. Já os Story Cards foram pensados de acordo com as prioridades dos usuários.
+Na segunda Sprint, a equipe realizou a o desenvolvimento do Back-end Front-end, utilizando a  .
 
 **Tempo da Sprint:** 28/09/2020 até 18/10/2020.
 
@@ -75,10 +75,10 @@ Na segunda Sprint, a equipe realizou a criação de Wireframe e Story Cards. Nos
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTI4MzAzLC02MTgzNjcyNTYsLTIwMT
-IyMTQ1ODQsNjc4NzM2Mzg0LDkxOTg1MDAzNSwtMzc0NDU1NjI4
-LDE0MTY2OTMwNiwxNzIxOTAyODk1LDE5OTQ1MzM2ODcsLTExND
-U1NTM4MDMsLTExMzcxMTEyNDEsMTIyODA5MTE0MCwtNDMzMDk2
-NzIxLDgyMDY4NDU1OSwtMTE1MDA1NDcxNywtMTY5MTgzMzQwMS
-wtMTcxMTU5ODIzNCwtMTIwMzQ0MTg5Nl19
+eyJoaXN0b3J5IjpbLTg1NjgwMjk4MCwtNjE4MzY3MjU2LC0yMD
+EyMjE0NTg0LDY3ODczNjM4NCw5MTk4NTAwMzUsLTM3NDQ1NTYy
+OCwxNDE2NjkzMDYsMTcyMTkwMjg5NSwxOTk0NTMzNjg3LC0xMT
+Q1NTUzODAzLC0xMTM3MTExMjQxLDEyMjgwOTExNDAsLTQzMzA5
+NjcyMSw4MjA2ODQ1NTksLTExNTAwNTQ3MTcsLTE2OTE4MzM0MD
+EsLTE3MTE1OTgyMzQsLTEyMDM0NDE4OTZdfQ==
 -->
