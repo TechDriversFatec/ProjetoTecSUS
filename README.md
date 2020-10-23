@@ -50,7 +50,9 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 ---
 ### Versões do Software:
 
-### :
+### Instalação
+
+
 
 
 **Download Software**
@@ -80,11 +82,11 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU1NjYzMzAwLC03ODQxODk4NTAsLTg4MD
-IwNzEyMywtNjE4MzY3MjU2LC0yMDEyMjE0NTg0LDY3ODczNjM4
-NCw5MTk4NTAwMzUsLTM3NDQ1NTYyOCwxNDE2NjkzMDYsMTcyMT
-kwMjg5NSwxOTk0NTMzNjg3LC0xMTQ1NTUzODAzLC0xMTM3MTEx
-MjQxLDEyMjgwOTExNDAsLTQzMzA5NjcyMSw4MjA2ODQ1NTksLT
-ExNTAwNTQ3MTcsLTE2OTE4MzM0MDEsLTE3MTE1OTgyMzQsLTEy
-MDM0NDE4OTZdfQ==
+eyJoaXN0b3J5IjpbMTc4Mjc1MTk5MywtNzg0MTg5ODUwLC04OD
+AyMDcxMjMsLTYxODM2NzI1NiwtMjAxMjIxNDU4NCw2Nzg3MzYz
+ODQsOTE5ODUwMDM1LC0zNzQ0NTU2MjgsMTQxNjY5MzA2LDE3Mj
+E5MDI4OTUsMTk5NDUzMzY4NywtMTE0NTU1MzgwMywtMTEzNzEx
+MTI0MSwxMjI4MDkxMTQwLC00MzMwOTY3MjEsODIwNjg0NTU5LC
+0xMTUwMDU0NzE3LC0xNjkxODMzNDAxLC0xNzExNTk4MjM0LC0x
+MjAzNDQxODk2XX0=
 -->
