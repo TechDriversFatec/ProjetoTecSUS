@@ -59,7 +59,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 2º - Executar 
 ``
 ``
-º - Executar 
+3º - Executar 
 ``
 
 
@@ -91,11 +91,11 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTg3MzIyMzksLTc4NDE4OTg1MCwtOD
-gwMjA3MTIzLC02MTgzNjcyNTYsLTIwMTIyMTQ1ODQsNjc4NzM2
-Mzg0LDkxOTg1MDAzNSwtMzc0NDU1NjI4LDE0MTY2OTMwNiwxNz
-IxOTAyODk1LDE5OTQ1MzM2ODcsLTExNDU1NTM4MDMsLTExMzcx
-MTEyNDEsMTIyODA5MTE0MCwtNDMzMDk2NzIxLDgyMDY4NDU1OS
-wtMTE1MDA1NDcxNywtMTY5MTgzMzQwMSwtMTcxMTU5ODIzNCwt
-MTIwMzQ0MTg5Nl19
+eyJoaXN0b3J5IjpbLTI5NjgxNjQ2OCwtNzg0MTg5ODUwLC04OD
+AyMDcxMjMsLTYxODM2NzI1NiwtMjAxMjIxNDU4NCw2Nzg3MzYz
+ODQsOTE5ODUwMDM1LC0zNzQ0NTU2MjgsMTQxNjY5MzA2LDE3Mj
+E5MDI4OTUsMTk5NDUzMzY4NywtMTE0NTU1MzgwMywtMTEzNzEx
+MTI0MSwxMjI4MDkxMTQwLC00MzMwOTY3MjEsODIwNjg0NTU5LC
+0xMTUwMDU0NzE3LC0xNjkxODMzNDAxLC0xNzExNTk4MjM0LC0x
+MjAzNDQxODk2XX0=
 -->
