@@ -50,6 +50,10 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 ---
 ### Versões do Software:
 
+### :
+
+
+**Download Software**
 - [DigiCont 1.0](https://github.com/assenvitor/ProjetoTecSUS/raw/master/Sprint%2002/Execut%C3%A1vel/DigiCont.jar)
 
 ---
@@ -76,11 +80,11 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDE4OTg1MCwtODgwMjA3MTIzLC02MT
-gzNjcyNTYsLTIwMTIyMTQ1ODQsNjc4NzM2Mzg0LDkxOTg1MDAz
-NSwtMzc0NDU1NjI4LDE0MTY2OTMwNiwxNzIxOTAyODk1LDE5OT
-Q1MzM2ODcsLTExNDU1NTM4MDMsLTExMzcxMTEyNDEsMTIyODA5
-MTE0MCwtNDMzMDk2NzIxLDgyMDY4NDU1OSwtMTE1MDA1NDcxNy
-wtMTY5MTgzMzQwMSwtMTcxMTU5ODIzNCwtMTIwMzQ0MTg5Nl19
-
+eyJoaXN0b3J5IjpbNDU1NjYzMzAwLC03ODQxODk4NTAsLTg4MD
+IwNzEyMywtNjE4MzY3MjU2LC0yMDEyMjE0NTg0LDY3ODczNjM4
+NCw5MTk4NTAwMzUsLTM3NDQ1NTYyOCwxNDE2NjkzMDYsMTcyMT
+kwMjg5NSwxOTk0NTMzNjg3LC0xMTQ1NTUzODAzLC0xMTM3MTEx
+MjQxLDEyMjgwOTExNDAsLTQzMzA5NjcyMSw4MjA2ODQ1NTksLT
+ExNTAwNTQ3MTcsLTE2OTE4MzM0MDEsLTE3MTE1OTgyMzQsLTEy
+MDM0NDE4OTZdfQ==
 -->
