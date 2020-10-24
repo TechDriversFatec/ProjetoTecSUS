@@ -1,4 +1,5 @@
 ![Status](https://img.shields.io/badge/Status-In_progress-orange.svg)  ![Size](https://img.shields.io/github/repo-size/assenvitor/ProjetoTecSUS?color=Green&label=Repo%20Size&logo=TecSUS&logoColor=Yellow)
+![GitHub top language](https://img.shields.io/github/languages/top/assenvitor/ProjetoTecSUS?color=yellow&logo=Tecsus&logoColor=yellow)
 
 
 ---
@@ -90,11 +91,11 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzA4Njg1NCwxMzkzMTA5ODc3LC02ND
-I0OTMyNzksLTY0MjQ5MzI3OSw5MDQ5ODY3MjIsMTg0NjI1NTQw
-MCwtNzIwNjQxODg4LC0xMTk2MTE2MDMyLDE2MTk3MTY3NzYsMj
-A2OTgwMTc2OSwtMTI1NTgxNTUxMCwtODMxOTkxMDUwLC0yMTQw
-OTU0NTY2LDE2NTQ1OTI4MTYsNzM0ODEwMTA1LDc3MTU2OTUyMy
-wyNTQwNTE4LC0yOTY4MTY0NjgsLTc4NDE4OTg1MCwtODgwMjA3
-MTIzXX0=
+eyJoaXN0b3J5IjpbLTM4NDE3NDg1LC00NDcwODY4NTQsMTM5Mz
+EwOTg3NywtNjQyNDkzMjc5LC02NDI0OTMyNzksOTA0OTg2NzIy
+LDE4NDYyNTU0MDAsLTcyMDY0MTg4OCwtMTE5NjExNjAzMiwxNj
+E5NzE2Nzc2LDIwNjk4MDE3NjksLTEyNTU4MTU1MTAsLTgzMTk5
+MTA1MCwtMjE0MDk1NDU2NiwxNjU0NTkyODE2LDczNDgxMDEwNS
+w3NzE1Njk1MjMsMjU0MDUxOCwtMjk2ODE2NDY4LC03ODQxODk4
+NTBdfQ==
 -->
