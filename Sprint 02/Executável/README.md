@@ -10,21 +10,21 @@
 
 **Guia do Usuário:** 
 
-- Menu
+ **Menu**
 
 O usuário poderá escolher entre:
 
-*Fornecedor:
+**Fornecedor:**
    - Buscar 
 	
-*Cliente:
+**Cliente:**
    - Cadastrar;
    - Editar;
    - Gerar Relatório.
      
   ---
   
-- Tela Cadastro Água	
+ **Tela Cadastro Água**	
 
 O usuário irá encontrar os seguintes campos:
    - Consumo M3;
@@ -35,7 +35,7 @@ O usuário irá encontrar os seguintes campos:
 
   ---
 
-- Observação:
+**Observação:**
 	
 - Os campos aceitam qualquer entrada de dados, pois o projeto está em desenvolvimento;
 - Para salvar os dados, clique em  "Cadastrar";
