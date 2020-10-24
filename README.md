@@ -49,16 +49,15 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 > - [Vídeo 02](https://drive.google.com/file/d/1yMGlzzZ68rYnkbwdPhe_jft0DxHuUz5P/view?usp=sharing)
 
 ---
-### Download do Software:
+## Documentação do Software:
 
-#### Requisitos:
+### Utilizações:
 
-     
 >   - [1º - Instalar Java JDK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
 >   - [2º - Baixar Executável - Versão 1.0](https://github.com/assenvitor/ProjetoTecSUS/raw/master/Sprint%2002/Execut%C3%A1vel/DigiCont.jar) 
 >    - 3º - Rodar Executável
 ---
-### FERRAMENTAS:
+## FERRAMENTAS:
 > - [GitHub](https://github.com/assenvitor/ProjetoTecSUS)
 > - [Trello](https://trello.com)
 > - [BrModelo2.0](https://baixe.net/baixar/down4373.html)
@@ -88,11 +87,11 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 > - [Lucas](https://github.com/LucasMonteiiroo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjEwMDUyNjcsMTY1NDU5MjgxNiw3Mz
-Q4MTAxMDUsNzcxNTY5NTIzLDI1NDA1MTgsLTI5NjgxNjQ2OCwt
-Nzg0MTg5ODUwLC04ODAyMDcxMjMsLTYxODM2NzI1NiwtMjAxMj
-IxNDU4NCw2Nzg3MzYzODQsOTE5ODUwMDM1LC0zNzQ0NTU2Mjgs
-MTQxNjY5MzA2LDE3MjE5MDI4OTUsMTk5NDUzMzY4NywtMTE0NT
-U1MzgwMywtMTEzNzExMTI0MSwxMjI4MDkxMTQwLC00MzMwOTY3
-MjFdfQ==
+eyJoaXN0b3J5IjpbNjUyNjc3NTcxLDE2NTQ1OTI4MTYsNzM0OD
+EwMTA1LDc3MTU2OTUyMywyNTQwNTE4LC0yOTY4MTY0NjgsLTc4
+NDE4OTg1MCwtODgwMjA3MTIzLC02MTgzNjcyNTYsLTIwMTIyMT
+Q1ODQsNjc4NzM2Mzg0LDkxOTg1MDAzNSwtMzc0NDU1NjI4LDE0
+MTY2OTMwNiwxNzIxOTAyODk1LDE5OTQ1MzM2ODcsLTExNDU1NT
+M4MDMsLTExMzcxMTEyNDEsMTIyODA5MTE0MCwtNDMzMDk2NzIx
+XX0=
 -->
