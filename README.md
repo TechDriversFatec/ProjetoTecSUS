@@ -66,6 +66,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 > - [StackEdit]( https://stackedit.io/)
 > - [Ecplise](https://www.eclipse.org/downloads/)
 > - [MySql](https://www.mysql.com/)
+> - [Stackedit](https://stackedit.io/)
 
 ---
 
@@ -87,11 +88,11 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 > - [Lucas](https://github.com/LucasMonteiiroo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzMwNjY4NywxNjU0NTkyODE2LDczND
-gxMDEwNSw3NzE1Njk1MjMsMjU0MDUxOCwtMjk2ODE2NDY4LC03
-ODQxODk4NTAsLTg4MDIwNzEyMywtNjE4MzY3MjU2LC0yMDEyMj
-E0NTg0LDY3ODczNjM4NCw5MTk4NTAwMzUsLTM3NDQ1NTYyOCwx
-NDE2NjkzMDYsMTcyMTkwMjg5NSwxOTk0NTMzNjg3LC0xMTQ1NT
-UzODAzLC0xMTM3MTExMjQxLDEyMjgwOTExNDAsLTQzMzA5Njcy
-MV19
+eyJoaXN0b3J5IjpbLTEzMjEwMDUyNjcsMTY1NDU5MjgxNiw3Mz
+Q4MTAxMDUsNzcxNTY5NTIzLDI1NDA1MTgsLTI5NjgxNjQ2OCwt
+Nzg0MTg5ODUwLC04ODAyMDcxMjMsLTYxODM2NzI1NiwtMjAxMj
+IxNDU4NCw2Nzg3MzYzODQsOTE5ODUwMDM1LC0zNzQ0NTU2Mjgs
+MTQxNjY5MzA2LDE3MjE5MDI4OTUsMTk5NDUzMzY4NywtMTE0NT
+U1MzgwMywtMTEzNzExMTI0MSwxMjI4MDkxMTQwLC00MzMwOTY3
+MjFdfQ==
 -->
