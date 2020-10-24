@@ -55,8 +55,8 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
      
    
 
->   - [1º - Instalar Java JDK](https://drive.google.com/file/d/1yMGlzzZ68rYnkbwdPhe_jft0DxHuUz5P/view?usp=sharing)
->     2º - Baixar Executável ;
+>   - [1º - Instalar Java JDK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
+>     [2º - Baixar Executável] (https://github.com/assenvitor/ProjetoTecSUS/raw/master/Sprint%2002/Execut%C3%A1vel/DigiCont.jar) ;
 >     3º - Rodar Executável
 
 .
@@ -64,7 +64,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 
 **Download Software**
-- [DigiCont 1.0](https://github.com/assenvitor/ProjetoTecSUS/raw/master/Sprint%2002/Execut%C3%A1vel/DigiCont.jar)
+- [DigiCont 1.0]
 
 ---
 ### FERRAMENTAS:
@@ -90,11 +90,11 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1MjA2NjIwLDczNDgxMDEwNSw3NzE1Nj
-k1MjMsMjU0MDUxOCwtMjk2ODE2NDY4LC03ODQxODk4NTAsLTg4
-MDIwNzEyMywtNjE4MzY3MjU2LC0yMDEyMjE0NTg0LDY3ODczNj
-M4NCw5MTk4NTAwMzUsLTM3NDQ1NTYyOCwxNDE2NjkzMDYsMTcy
-MTkwMjg5NSwxOTk0NTMzNjg3LC0xMTQ1NTUzODAzLC0xMTM3MT
-ExMjQxLDEyMjgwOTExNDAsLTQzMzA5NjcyMSw4MjA2ODQ1NTld
-fQ==
+eyJoaXN0b3J5IjpbMTY2MTUyNzI0NSw3MzQ4MTAxMDUsNzcxNT
+Y5NTIzLDI1NDA1MTgsLTI5NjgxNjQ2OCwtNzg0MTg5ODUwLC04
+ODAyMDcxMjMsLTYxODM2NzI1NiwtMjAxMjIxNDU4NCw2Nzg3Mz
+YzODQsOTE5ODUwMDM1LC0zNzQ0NTU2MjgsMTQxNjY5MzA2LDE3
+MjE5MDI4OTUsMTk5NDUzMzY4NywtMTE0NTU1MzgwMywtMTEzNz
+ExMTI0MSwxMjI4MDkxMTQwLC00MzMwOTY3MjEsODIwNjg0NTU5
+XX0=
 -->
