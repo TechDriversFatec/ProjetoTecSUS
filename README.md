@@ -51,7 +51,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 ---
 ### Download do Software:
 
-### Requisitos:
+#### Requisitos:
 
      
 >   - [1º - Instalar Java JDK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
@@ -87,7 +87,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 > - [Lucas](https://github.com/LucasMonteiiroo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODUyMjkxOSw3MzQ4MTAxMDUsNzcxNT
+eyJoaXN0b3J5IjpbMTY1NDU5MjgxNiw3MzQ4MTAxMDUsNzcxNT
 Y5NTIzLDI1NDA1MTgsLTI5NjgxNjQ2OCwtNzg0MTg5ODUwLC04
 ODAyMDcxMjMsLTYxODM2NzI1NiwtMjAxMjIxNDU4NCw2Nzg3Mz
 YzODQsOTE5ODUwMDM1LC0zNzQ0NTU2MjgsMTQxNjY5MzA2LDE3
