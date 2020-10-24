@@ -48,7 +48,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 - [Vídeo 01](https://drive.google.com/file/d/15jyLiNlI4ROETPznqx-H09QlZZ691C35/view?usp=sharing)
 - [Vídeo 02](https://drive.google.com/file/d/1yMGlzzZ68rYnkbwdPhe_jft0DxHuUz5P/view?usp=sharing)
 ---
-### Versões do Software:
+### Download do Software:
 
 ### Requisitos:
 
@@ -82,7 +82,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDQ5MDQyMCw3MzQ4MTAxMDUsNzcxNT
+eyJoaXN0b3J5IjpbMTI3NDgzNTM0Myw3MzQ4MTAxMDUsNzcxNT
 Y5NTIzLDI1NDA1MTgsLTI5NjgxNjQ2OCwtNzg0MTg5ODUwLC04
 ODAyMDcxMjMsLTYxODM2NzI1NiwtMjAxMjIxNDU4NCw2Nzg3Mz
 YzODQsOTE5ODUwMDM1LC0zNzQ0NTU2MjgsMTQxNjY5MzA2LDE3
