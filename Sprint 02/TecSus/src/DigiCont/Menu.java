@@ -9,6 +9,8 @@ import java.awt.event.ActionEvent;
 import javax.swing.JLabel;
 import javax.swing.SwingConstants;
 import java.awt.Font;
+import java.awt.Label;
+import java.awt.Color;
 
 
 public class Menu {
@@ -41,6 +43,7 @@ public class Menu {
 	
 	private void initialize() {
 		frmMenu = new JFrame();
+		frmMenu.setBackground(Color.WHITE);
 		frmMenu.setResizable(false);
 		frmMenu.setTitle("Menu");
 		frmMenu.setBounds(100, 100, 960, 720);
