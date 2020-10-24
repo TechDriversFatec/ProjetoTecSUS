@@ -45,8 +45,8 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 ### VÍDEO DE APRESENTAÇÃO DAS ENTREGAS:
 
-> - [Vídeo 01](https://drive.google.com/file/d/15jyLiNlI4ROETPznqx-H09QlZZ691C35/view?usp=sharing)
-> - [Vídeo 02](https://drive.google.com/file/d/1yMGlzzZ68rYnkbwdPhe_jft0DxHuUz5P/view?usp=sharing)
+> - [Vídeo 01 - Sprint 01](https://drive.google.com/file/d/15jyLiNlI4ROETPznqx-H09QlZZ691C35/view?usp=sharing)
+> - [Vídeo 02 - Sprint 02](https://drive.google.com/file/d/1yMGlzzZ68rYnkbwdPhe_jft0DxHuUz5P/view?usp=sharing)
 
 ---
 ## Documentação do Software:
@@ -69,7 +69,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 ---
 
-### DEV TEAM
+## DEV TEAM
 
 > - [Mateus](https://github.com/mateuscamargo)
 > - [Isidro](https://github.com/Isidro013)
@@ -78,20 +78,20 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 > - [Israel](https://github.com/israelaguiar)
 
  ---
-### SCRUM MASTER
+## SCRUM MASTER
 
 > - [Vitor](https://github.com/assenvitor)
 
-### P.O
+## P.O
 
 > - [Lucas](https://github.com/LucasMonteiiroo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyNjc3NTcxLDE2NTQ1OTI4MTYsNzM0OD
-EwMTA1LDc3MTU2OTUyMywyNTQwNTE4LC0yOTY4MTY0NjgsLTc4
-NDE4OTg1MCwtODgwMjA3MTIzLC02MTgzNjcyNTYsLTIwMTIyMT
-Q1ODQsNjc4NzM2Mzg0LDkxOTg1MDAzNSwtMzc0NDU1NjI4LDE0
-MTY2OTMwNiwxNzIxOTAyODk1LDE5OTQ1MzM2ODcsLTExNDU1NT
-M4MDMsLTExMzcxMTEyNDEsMTIyODA5MTE0MCwtNDMzMDk2NzIx
-XX0=
+eyJoaXN0b3J5IjpbLTk2MDU2ODI5NywxNjU0NTkyODE2LDczND
+gxMDEwNSw3NzE1Njk1MjMsMjU0MDUxOCwtMjk2ODE2NDY4LC03
+ODQxODk4NTAsLTg4MDIwNzEyMywtNjE4MzY3MjU2LC0yMDEyMj
+E0NTg0LDY3ODczNjM4NCw5MTk4NTAwMzUsLTM3NDQ1NTYyOCwx
+NDE2NjkzMDYsMTcyMTkwMjg5NSwxOTk0NTMzNjg3LC0xMTQ1NT
+UzODAzLC0xMTM3MTExMjQxLDEyMjgwOTExNDAsLTQzMzA5Njcy
+MV19
 -->
