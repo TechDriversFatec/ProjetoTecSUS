@@ -52,7 +52,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 > - [Vídeo 02 - Sprint 02](https://drive.google.com/file/d/1yMGlzzZ68rYnkbwdPhe_jft0DxHuUz5P/view?usp=sharing)
 
 ---
-### Documentação do Software:
+### Documentaçã do Software:
 
 ### Utilizações:
 
@@ -90,11 +90,11 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 > - [Lucas](https://github.com/LucasMonteiiroo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTU4MTU1MTAsLTgzMTk5MTA1MCwtMj
-E0MDk1NDU2NiwxNjU0NTkyODE2LDczNDgxMDEwNSw3NzE1Njk1
-MjMsMjU0MDUxOCwtMjk2ODE2NDY4LC03ODQxODk4NTAsLTg4MD
-IwNzEyMywtNjE4MzY3MjU2LC0yMDEyMjE0NTg0LDY3ODczNjM4
-NCw5MTk4NTAwMzUsLTM3NDQ1NTYyOCwxNDE2NjkzMDYsMTcyMT
-kwMjg5NSwxOTk0NTMzNjg3LC0xMTQ1NTUzODAzLC0xMTM3MTEx
-MjQxXX0=
+eyJoaXN0b3J5IjpbMjA2OTgwMTc2OSwtMTI1NTgxNTUxMCwtOD
+MxOTkxMDUwLC0yMTQwOTU0NTY2LDE2NTQ1OTI4MTYsNzM0ODEw
+MTA1LDc3MTU2OTUyMywyNTQwNTE4LC0yOTY4MTY0NjgsLTc4ND
+E4OTg1MCwtODgwMjA3MTIzLC02MTgzNjcyNTYsLTIwMTIyMTQ1
+ODQsNjc4NzM2Mzg0LDkxOTg1MDAzNSwtMzc0NDU1NjI4LDE0MT
+Y2OTMwNiwxNzIxOTAyODk1LDE5OTQ1MzM2ODcsLTExNDU1NTM4
+MDNdfQ==
 -->
