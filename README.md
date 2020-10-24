@@ -26,7 +26,7 @@ Desta forma, para facilitar a digitação das contas precisamos de um sistema qu
 	- Após contato com a empresa, levantamos que as dificuldades ocorrem porque as empresas que fornecem energia ou água não seguem os mesmos padrões de dados, pois cada localidade pode ter um fornecedor diferente. Sendo assim será desenvolvido um sistema simples e objetivo, fazendo com que seja ágil e a taxa de erro seja menor.
 ---
 
-## SPRINTS:
+## SPRINTS: :gear:
 
 [Sprint 01](https://github.com/assenvitor/ProjetoTecSUS/tree/master/Sprint%2001)
 
@@ -91,11 +91,11 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzgzNTQwODAsOTA0OTg2NzIyLDE4ND
-YyNTU0MDAsLTcyMDY0MTg4OCwtMTE5NjExNjAzMiwxNjE5NzE2
-Nzc2LDIwNjk4MDE3NjksLTEyNTU4MTU1MTAsLTgzMTk5MTA1MC
-wtMjE0MDk1NDU2NiwxNjU0NTkyODE2LDczNDgxMDEwNSw3NzE1
-Njk1MjMsMjU0MDUxOCwtMjk2ODE2NDY4LC03ODQxODk4NTAsLT
-g4MDIwNzEyMywtNjE4MzY3MjU2LC0yMDEyMjE0NTg0LDY3ODcz
-NjM4NF19
+eyJoaXN0b3J5IjpbMTUzODc3OTM5LDkwNDk4NjcyMiwxODQ2Mj
+U1NDAwLC03MjA2NDE4ODgsLTExOTYxMTYwMzIsMTYxOTcxNjc3
+NiwyMDY5ODAxNzY5LC0xMjU1ODE1NTEwLC04MzE5OTEwNTAsLT
+IxNDA5NTQ1NjYsMTY1NDU5MjgxNiw3MzQ4MTAxMDUsNzcxNTY5
+NTIzLDI1NDA1MTgsLTI5NjgxNjQ2OCwtNzg0MTg5ODUwLC04OD
+AyMDcxMjMsLTYxODM2NzI1NiwtMjAxMjIxNDU4NCw2Nzg3MzYz
+ODRdfQ==
 -->
