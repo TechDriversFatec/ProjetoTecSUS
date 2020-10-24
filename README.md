@@ -84,14 +84,14 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 > - [Vitor](https://github.com/assenvitor)
 
-## P.O :darm:
+## P.O :dart:
 
 > - [Lucas](https://github.com/LucasMonteiiroo)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ1NjI3NDUsOTA0OTg2NzIyLDE4ND
+eyJoaXN0b3J5IjpbLTE1MzgzNTQwODAsOTA0OTg2NzIyLDE4ND
 YyNTU0MDAsLTcyMDY0MTg4OCwtMTE5NjExNjAzMiwxNjE5NzE2
 Nzc2LDIwNjk4MDE3NjksLTEyNTU4MTU1MTAsLTgzMTk5MTA1MC
 wtMjE0MDk1NDU2NiwxNjU0NTkyODE2LDczNDgxMDEwNSw3NzE1
