@@ -52,27 +52,31 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 ### Download do Software:
 
 ### Requisitos:
+
      
 >   - [1º - Instalar Java JDK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
 >   - [2º - Baixar Executável - Versão 1.0](https://github.com/assenvitor/ProjetoTecSUS/raw/master/Sprint%2002/Execut%C3%A1vel/DigiCont.jar) 
 >    - 3º - Rodar Executável
 ---
 ### FERRAMENTAS:
-- [GitHub](https://github.com/assenvitor/ProjetoTecSUS)
-- [Trello](https://trello.com)
-- [BrModelo2.0](https://baixe.net/baixar/down4373.html)
-- [AdobeXD](https://www.adobe.com/br/products/xd.html)
-- [StackEdit]( https://stackedit.io/)
-- [Ecplise](https://www.eclipse.org/downloads/)
-- [MySql](https://www.mysql.com/)
+> - [GitHub](https://github.com/assenvitor/ProjetoTecSUS)
+> - [Trello](https://trello.com)
+> - [BrModelo2.0](https://baixe.net/baixar/down4373.html)
+> - [AdobeXD](https://www.adobe.com/br/products/xd.html)
+> - [StackEdit]( https://stackedit.io/)
+> - [Ecplise](https://www.eclipse.org/downloads/)
+> - [MySql](https://www.mysql.com/)
+
 ---
 
 ### DEV TEAM
-- [Mateus](https://github.com/mateuscamargo)
-- [Isidro](https://github.com/Isidro013)
-- [Flavio](https://github.com/flavioalepereira)
-- [Pedro](https://github.com/pedrogarcia1910)
-- [Israel](https://github.com/israelaguiar)
+
+> - [Mateus](https://github.com/mateuscamargo)
+> - [Isidro](https://github.com/Isidro013)
+> - [Flavio](https://github.com/flavioalepereira)
+> - [Pedro](https://github.com/pedrogarcia1910)
+> - [Israel](https://github.com/israelaguiar)
+
  ---
 ### SCRUM MASTER
 - [Vitor](https://github.com/assenvitor)
@@ -80,11 +84,11 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODExNDY5MDksNzM0ODEwMTA1LDc3MT
-U2OTUyMywyNTQwNTE4LC0yOTY4MTY0NjgsLTc4NDE4OTg1MCwt
-ODgwMjA3MTIzLC02MTgzNjcyNTYsLTIwMTIyMTQ1ODQsNjc4Nz
-M2Mzg0LDkxOTg1MDAzNSwtMzc0NDU1NjI4LDE0MTY2OTMwNiwx
-NzIxOTAyODk1LDE5OTQ1MzM2ODcsLTExNDU1NTM4MDMsLTExMz
-cxMTEyNDEsMTIyODA5MTE0MCwtNDMzMDk2NzIxLDgyMDY4NDU1
-OV19
+eyJoaXN0b3J5IjpbMTg0ODMxODk1NSw3MzQ4MTAxMDUsNzcxNT
+Y5NTIzLDI1NDA1MTgsLTI5NjgxNjQ2OCwtNzg0MTg5ODUwLC04
+ODAyMDcxMjMsLTYxODM2NzI1NiwtMjAxMjIxNDU4NCw2Nzg3Mz
+YzODQsOTE5ODUwMDM1LC0zNzQ0NTU2MjgsMTQxNjY5MzA2LDE3
+MjE5MDI4OTUsMTk5NDUzMzY4NywtMTE0NTU1MzgwMywtMTEzNz
+ExMTI0MSwxMjI4MDkxMTQwLC00MzMwOTY3MjEsODIwNjg0NTU5
+XX0=
 -->
