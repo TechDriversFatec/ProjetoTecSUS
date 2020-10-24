@@ -81,20 +81,20 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 > - [Israel](https://github.com/israelaguiar)
 
  ---
-## SCRUM MASTER
+## SCRUM MASTER :
 
 > - [Vitor](https://github.com/assenvitor)
 
-## P.O
+## P.O :clipboard:
 
 > - [Lucas](https://github.com/LucasMonteiiroo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTcxNjc3NiwyMDY5ODAxNzY5LC0xMj
-U1ODE1NTEwLC04MzE5OTEwNTAsLTIxNDA5NTQ1NjYsMTY1NDU5
-MjgxNiw3MzQ4MTAxMDUsNzcxNTY5NTIzLDI1NDA1MTgsLTI5Nj
-gxNjQ2OCwtNzg0MTg5ODUwLC04ODAyMDcxMjMsLTYxODM2NzI1
-NiwtMjAxMjIxNDU4NCw2Nzg3MzYzODQsOTE5ODUwMDM1LC0zNz
-Q0NTU2MjgsMTQxNjY5MzA2LDE3MjE5MDI4OTUsMTk5NDUzMzY4
-N119
+eyJoaXN0b3J5IjpbLTExOTYxMTYwMzIsMTYxOTcxNjc3NiwyMD
+Y5ODAxNzY5LC0xMjU1ODE1NTEwLC04MzE5OTEwNTAsLTIxNDA5
+NTQ1NjYsMTY1NDU5MjgxNiw3MzQ4MTAxMDUsNzcxNTY5NTIzLD
+I1NDA1MTgsLTI5NjgxNjQ2OCwtNzg0MTg5ODUwLC04ODAyMDcx
+MjMsLTYxODM2NzI1NiwtMjAxMjIxNDU4NCw2Nzg3MzYzODQsOT
+E5ODUwMDM1LC0zNzQ0NTU2MjgsMTQxNjY5MzA2LDE3MjE5MDI4
+OTVdfQ==
 -->
