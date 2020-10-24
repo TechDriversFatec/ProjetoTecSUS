@@ -1,4 +1,4 @@
-![Status](https://img.shields.io/badge/Status-In_progress-orange.svg)  ![Size](https://img.shields.io/github/repo-size/assenvitor/ProjetoTecSUS?color=Green&label=Repo%20Size&logo=TecSUS&logoColor=Yellow) ![GitHub top language](https://img.shields.io/github/languages/top/assenvitor/ProjetoTecSUS?color=yellow&logo=Tecsus&logoColor=yellow) ![GitHub last commit](https://img.shields.io/github/last-commit/assenvitor/ProjetoTecSUS?color=blue) ![Github All Contributors](https://img.shields.io/github/all-contributors/all-contributors/all-contributors/master?color=lightgrey)
+! [Status] ( https://img.shields.io/badge/Status-In_progress-orange.svg )! [Size] ( https://img.shields.io/github/repo-size/assenvitor/ProjetoTecSUS?color=Green&label=Repo%20Size&logo=TecSUS&logoColor=Yellow )! [Idioma principal do GitHub] ( https://img.shields.io/github/languages/top/assenvitor/ProjetoTecSUS?color=yellow&logo=Tecsus&logoColor=yellow )! [Último commit do GitHub] ( https://img.shields.io/github/last-commit/assenvitor/ProjetoTecSUS?color=blue )! [Github All Contributors] ( https://img.shields.io/github/all-contributors/all-contributors/all-contributors/master?color=lightgrey )
 
 
 
@@ -8,7 +8,7 @@
 
 # Projeto TecSUS - Tecnologias para a Sustentabilidade :chart_with_upwards_trend:
 
-### DESENVOLVIMENTO DE SOFTWARE PARA EMPRESA TECSUS.**
+### DESENVOLVIMENTO DE SOFTWARE PARA EMPRESA TECSUS.
 
 - **Nome do Grupo:** Fatec Cloud
 - **Nome do Software:** Digi Cont
@@ -91,11 +91,11 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDAyNDQyNSwyODIwOTY4OTcsLTM4ND
-E3NDg1LC00NDcwODY4NTQsMTM5MzEwOTg3NywtNjQyNDkzMjc5
-LC02NDI0OTMyNzksOTA0OTg2NzIyLDE4NDYyNTU0MDAsLTcyMD
-Y0MTg4OCwtMTE5NjExNjAzMiwxNjE5NzE2Nzc2LDIwNjk4MDE3
-NjksLTEyNTU4MTU1MTAsLTgzMTk5MTA1MCwtMjE0MDk1NDU2Ni
-wxNjU0NTkyODE2LDczNDgxMDEwNSw3NzE1Njk1MjMsMjU0MDUx
-OF19
+eyJoaXN0b3J5IjpbLTE5Nzk0MjI0NjgsMTE5NDAyNDQyNSwyOD
+IwOTY4OTcsLTM4NDE3NDg1LC00NDcwODY4NTQsMTM5MzEwOTg3
+NywtNjQyNDkzMjc5LC02NDI0OTMyNzksOTA0OTg2NzIyLDE4ND
+YyNTU0MDAsLTcyMDY0MTg4OCwtMTE5NjExNjAzMiwxNjE5NzE2
+Nzc2LDIwNjk4MDE3NjksLTEyNTU4MTU1MTAsLTgzMTk5MTA1MC
+wtMjE0MDk1NDU2NiwxNjU0NTkyODE2LDczNDgxMDEwNSw3NzE1
+Njk1MjNdfQ==
 -->
