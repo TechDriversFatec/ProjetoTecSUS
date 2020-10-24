@@ -1,4 +1,4 @@
-![Status]( https://img.shields.io/badge/Status-In_progress-orange.svg ) ![Size]( https://img.shields.io/github/repo-size/assenvitor/ProjetoTecSUS?color=Green&label=Repo%20Size&logo=TecSUS&logoColor=Yellow ) ![Idioma principal do GitHub] ( https://img.shields.io/github/languages/top/assenvitor/ProjetoTecSUS?color=yellow&logo=Tecsus&logoColor=yellow )! [Último commit do GitHub] ( https://img.shields.io/github/last-commit/assenvitor/ProjetoTecSUS?color=blue )! [Github All Contributors] ( https://img.shields.io/github/all-contributors/all-contributors/all-contributors/master?color=lightgrey )
+![Status]( https://img.shields.io/badge/Status-In_progress-orange.svg ) ![Size]( https://img.shields.io/github/repo-size/assenvitor/ProjetoTecSUS?color=Green&label=Repo%20Size&logo=TecSUS&logoColor=Yellow ) ![Idioma principal do GitHub]( https://img.shields.io/github/languages/top/assenvitor/ProjetoTecSUS?color=yellow&logo=Tecsus&logoColor=yellow ) ![Último commit do GitHub]( https://img.shields.io/github/last-commit/assenvitor/ProjetoTecSUS?color=blue ) ![Github All Contributors]( https://img.shields.io/github/all-contributors/all-contributors/all-contributors/master?color=lightgrey )
 
 
 
@@ -91,7 +91,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTk3NjMwMywxMTk0MDI0NDI1LDI4Mj
+eyJoaXN0b3J5IjpbLTE0Nzg0MDU1NSwxMTk0MDI0NDI1LDI4Mj
 A5Njg5NywtMzg0MTc0ODUsLTQ0NzA4Njg1NCwxMzkzMTA5ODc3
 LC02NDI0OTMyNzksLTY0MjQ5MzI3OSw5MDQ5ODY3MjIsMTg0Nj
 I1NTQwMCwtNzIwNjQxODg4LC0xMTk2MTE2MDMyLDE2MTk3MTY3
