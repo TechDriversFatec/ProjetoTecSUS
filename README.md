@@ -72,7 +72,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 ---
 
-## DEV TEAM
+## DEV TEAM :computer:
 
 > - [Mateus](https://github.com/mateuscamargo)
 > - [Isidro](https://github.com/Isidro013)
@@ -90,11 +90,11 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 > - [Lucas](https://github.com/LucasMonteiiroo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTgwMTc2OSwtMTI1NTgxNTUxMCwtOD
-MxOTkxMDUwLC0yMTQwOTU0NTY2LDE2NTQ1OTI4MTYsNzM0ODEw
-MTA1LDc3MTU2OTUyMywyNTQwNTE4LC0yOTY4MTY0NjgsLTc4ND
-E4OTg1MCwtODgwMjA3MTIzLC02MTgzNjcyNTYsLTIwMTIyMTQ1
-ODQsNjc4NzM2Mzg0LDkxOTg1MDAzNSwtMzc0NDU1NjI4LDE0MT
-Y2OTMwNiwxNzIxOTAyODk1LDE5OTQ1MzM2ODcsLTExNDU1NTM4
-MDNdfQ==
+eyJoaXN0b3J5IjpbMTYxOTcxNjc3NiwyMDY5ODAxNzY5LC0xMj
+U1ODE1NTEwLC04MzE5OTEwNTAsLTIxNDA5NTQ1NjYsMTY1NDU5
+MjgxNiw3MzQ4MTAxMDUsNzcxNTY5NTIzLDI1NDA1MTgsLTI5Nj
+gxNjQ2OCwtNzg0MTg5ODUwLC04ODAyMDcxMjMsLTYxODM2NzI1
+NiwtMjAxMjIxNDU4NCw2Nzg3MzYzODQsOTE5ODUwMDM1LC0zNz
+Q0NTU2MjgsMTQxNjY5MzA2LDE3MjE5MDI4OTUsMTk5NDUzMzY4
+N119
 -->
