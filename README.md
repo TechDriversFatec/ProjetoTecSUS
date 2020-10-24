@@ -1,6 +1,6 @@
 ![Status](https://img.shields.io/badge/Status-In_progress-orange.svg)
 
-
+---
 ![enter image description here](https://github.com/assenvitor/ProjetoTecSUS/blob/master/Sprint%2001/Logo/DIGI%20CONT.png?raw=true%02)
 
 
@@ -90,11 +90,11 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 > - [Lucas](https://github.com/LucasMonteiiroo)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzU2MzQ1MywtODMxOTkxMDUwLC0yMT
-QwOTU0NTY2LDE2NTQ1OTI4MTYsNzM0ODEwMTA1LDc3MTU2OTUy
-MywyNTQwNTE4LC0yOTY4MTY0NjgsLTc4NDE4OTg1MCwtODgwMj
-A3MTIzLC02MTgzNjcyNTYsLTIwMTIyMTQ1ODQsNjc4NzM2Mzg0
-LDkxOTg1MDAzNSwtMzc0NDU1NjI4LDE0MTY2OTMwNiwxNzIxOT
-AyODk1LDE5OTQ1MzM2ODcsLTExNDU1NTM4MDMsLTExMzcxMTEy
-NDFdfQ==
+eyJoaXN0b3J5IjpbLTEyNTU4MTU1MTAsLTgzMTk5MTA1MCwtMj
+E0MDk1NDU2NiwxNjU0NTkyODE2LDczNDgxMDEwNSw3NzE1Njk1
+MjMsMjU0MDUxOCwtMjk2ODE2NDY4LC03ODQxODk4NTAsLTg4MD
+IwNzEyMywtNjE4MzY3MjU2LC0yMDEyMjE0NTg0LDY3ODczNjM4
+NCw5MTk4NTAwMzUsLTM3NDQ1NTYyOCwxNDE2NjkzMDYsMTcyMT
+kwMjg5NSwxOTk0NTMzNjg3LC0xMTQ1NTUzODAzLC0xMTM3MTEx
+MjQxXX0=
 -->
