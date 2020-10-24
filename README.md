@@ -4,7 +4,7 @@
 ![enter image description here](https://github.com/assenvitor/ProjetoTecSUS/blob/master/Sprint%2001/Logo/DIGI%20CONT.png?raw=true%02)
 
 
-# Projeto TecSUS - Tecnologias para a Sustentabilidade
+# Projeto TecSUS - Tecnologias para a Sustentabilidade :chart_with_upwards_trend:
 
 ### DESENVOLVIMENTO DE SOFTWARE PARA EMPRESA TECSUS.**
 
@@ -91,11 +91,11 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODc3OTM5LDkwNDk4NjcyMiwxODQ2Mj
-U1NDAwLC03MjA2NDE4ODgsLTExOTYxMTYwMzIsMTYxOTcxNjc3
-NiwyMDY5ODAxNzY5LC0xMjU1ODE1NTEwLC04MzE5OTEwNTAsLT
-IxNDA5NTQ1NjYsMTY1NDU5MjgxNiw3MzQ4MTAxMDUsNzcxNTY5
-NTIzLDI1NDA1MTgsLTI5NjgxNjQ2OCwtNzg0MTg5ODUwLC04OD
-AyMDcxMjMsLTYxODM2NzI1NiwtMjAxMjIxNDU4NCw2Nzg3MzYz
-ODRdfQ==
+eyJoaXN0b3J5IjpbMTQ3ODkzMzMyNSw5MDQ5ODY3MjIsMTg0Nj
+I1NTQwMCwtNzIwNjQxODg4LC0xMTk2MTE2MDMyLDE2MTk3MTY3
+NzYsMjA2OTgwMTc2OSwtMTI1NTgxNTUxMCwtODMxOTkxMDUwLC
+0yMTQwOTU0NTY2LDE2NTQ1OTI4MTYsNzM0ODEwMTA1LDc3MTU2
+OTUyMywyNTQwNTE4LC0yOTY4MTY0NjgsLTc4NDE4OTg1MCwtOD
+gwMjA3MTIzLC02MTgzNjcyNTYsLTIwMTIyMTQ1ODQsNjc4NzM2
+Mzg0XX0=
 -->
