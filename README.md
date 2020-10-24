@@ -60,7 +60,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 >   - [2º - Baixar Executável - Versão 1.0](https://github.com/assenvitor/ProjetoTecSUS/raw/master/Sprint%2002/Execut%C3%A1vel/DigiCont.jar) 
 >    - 3º - Rodar Executável
 ---
-## FERRAMENTAS: :tools:
+## FERRAMENTAS: ::
 > - [GitHub](https://github.com/assenvitor/ProjetoTecSUS)
 > - [Trello](https://trello.com)
 > - [BrModelo2.0](https://baixe.net/baixar/down4373.html)
@@ -81,18 +81,18 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 > - [Israel](https://github.com/israelaguiar)
 
  ---
-## SCRUM MASTER :mechanical_arm:
+## SCRUM MASTER :robot:
 
 > - [Vitor](https://github.com/assenvitor)
 
-## P.O :mechanical_arm:
+## P.O :dart:
 
 > - [Lucas](https://github.com/LucasMonteiiroo)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4Njg3NTA3MSwxODQ2MjU1NDAwLC03Mj
+eyJoaXN0b3J5IjpbLTQyMjE1OTA0NSwxODQ2MjU1NDAwLC03Mj
 A2NDE4ODgsLTExOTYxMTYwMzIsMTYxOTcxNjc3NiwyMDY5ODAx
 NzY5LC0xMjU1ODE1NTEwLC04MzE5OTEwNTAsLTIxNDA5NTQ1Nj
 YsMTY1NDU5MjgxNiw3MzQ4MTAxMDUsNzcxNTY5NTIzLDI1NDA1
