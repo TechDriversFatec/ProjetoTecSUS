@@ -60,7 +60,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 >   - [2º - Baixar Executável - Versão 1.0](https://github.com/assenvitor/ProjetoTecSUS/raw/master/Sprint%2002/Execut%C3%A1vel/DigiCont.jar) 
 >    - 3º - Rodar Executável
 ---
-## FERRAMENTAS:
+## FERRAMENTAS: :tools:
 > - [GitHub](https://github.com/assenvitor/ProjetoTecSUS)
 > - [Trello](https://trello.com)
 > - [BrModelo2.0](https://baixe.net/baixar/down4373.html)
@@ -92,11 +92,11 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzQ3MDA0OSwtNzIwNjQxODg4LC0xMT
-k2MTE2MDMyLDE2MTk3MTY3NzYsMjA2OTgwMTc2OSwtMTI1NTgx
-NTUxMCwtODMxOTkxMDUwLC0yMTQwOTU0NTY2LDE2NTQ1OTI4MT
-YsNzM0ODEwMTA1LDc3MTU2OTUyMywyNTQwNTE4LC0yOTY4MTY0
-NjgsLTc4NDE4OTg1MCwtODgwMjA3MTIzLC02MTgzNjcyNTYsLT
-IwMTIyMTQ1ODQsNjc4NzM2Mzg0LDkxOTg1MDAzNSwtMzc0NDU1
-NjI4XX0=
+eyJoaXN0b3J5IjpbMTg0NjI1NTQwMCwxMjc3NDcwMDQ5LC03Mj
+A2NDE4ODgsLTExOTYxMTYwMzIsMTYxOTcxNjc3NiwyMDY5ODAx
+NzY5LC0xMjU1ODE1NTEwLC04MzE5OTEwNTAsLTIxNDA5NTQ1Nj
+YsMTY1NDU5MjgxNiw3MzQ4MTAxMDUsNzcxNTY5NTIzLDI1NDA1
+MTgsLTI5NjgxNjQ2OCwtNzg0MTg5ODUwLC04ODAyMDcxMjMsLT
+YxODM2NzI1NiwtMjAxMjIxNDU4NCw2Nzg3MzYzODQsOTE5ODUw
+MDM1XX0=
 -->
