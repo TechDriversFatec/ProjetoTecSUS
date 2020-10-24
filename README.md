@@ -51,9 +51,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 > - [Vídeo 02 - Sprint 02](https://drive.google.com/file/d/1yMGlzzZ68rYnkbwdPhe_jft0DxHuUz5P/view?usp=sharing)
 
 ---
-### Documentaçã do Software:
-
-### Utilizações:
+### DOCUMENTAÇÃO:
 
 >   - [1º - Instalar Java JDK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
 >   - [2º - Baixar Executável - Versão 1.0](https://github.com/assenvitor/ProjetoTecSUS/raw/master/Sprint%2002/Execut%C3%A1vel/DigiCont.jar) 
@@ -91,7 +89,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODkzMzMyNSw5MDQ5ODY3MjIsMTg0Nj
+eyJoaXN0b3J5IjpbLTY0MjQ5MzI3OSw5MDQ5ODY3MjIsMTg0Nj
 I1NTQwMCwtNzIwNjQxODg4LC0xMTk2MTE2MDMyLDE2MTk3MTY3
 NzYsMjA2OTgwMTc2OSwtMTI1NTgxNTUxMCwtODMxOTkxMDUwLC
 0yMTQwOTU0NTY2LDE2NTQ1OTI4MTYsNzM0ODEwMTA1LDc3MTU2
