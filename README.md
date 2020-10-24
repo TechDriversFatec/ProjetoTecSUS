@@ -54,8 +54,8 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
      
      1º - Instalar Java JDK;
-     2º - Baixar Executavél;
-     3º - Rodar Executavél.
+     2º - Baixar Executável ;
+     3º - Rodar Executável .
 
 
 
@@ -86,11 +86,11 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 ### P.O
 - [Lucas](https://github.com/LucasMonteiiroo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcxNTY5NTIzLDI1NDA1MTgsLTI5NjgxNj
-Q2OCwtNzg0MTg5ODUwLC04ODAyMDcxMjMsLTYxODM2NzI1Niwt
-MjAxMjIxNDU4NCw2Nzg3MzYzODQsOTE5ODUwMDM1LC0zNzQ0NT
-U2MjgsMTQxNjY5MzA2LDE3MjE5MDI4OTUsMTk5NDUzMzY4Nywt
-MTE0NTU1MzgwMywtMTEzNzExMTI0MSwxMjI4MDkxMTQwLC00Mz
-MwOTY3MjEsODIwNjg0NTU5LC0xMTUwMDU0NzE3LC0xNjkxODMz
-NDAxXX0=
+eyJoaXN0b3J5IjpbNzM0ODEwMTA1LDc3MTU2OTUyMywyNTQwNT
+E4LC0yOTY4MTY0NjgsLTc4NDE4OTg1MCwtODgwMjA3MTIzLC02
+MTgzNjcyNTYsLTIwMTIyMTQ1ODQsNjc4NzM2Mzg0LDkxOTg1MD
+AzNSwtMzc0NDU1NjI4LDE0MTY2OTMwNiwxNzIxOTAyODk1LDE5
+OTQ1MzM2ODcsLTExNDU1NTM4MDMsLTExMzcxMTEyNDEsMTIyOD
+A5MTE0MCwtNDMzMDk2NzIxLDgyMDY4NDU1OSwtMTE1MDA1NDcx
+N119
 -->
