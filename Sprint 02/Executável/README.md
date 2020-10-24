@@ -37,10 +37,10 @@ O usuário irá encontrar os seguintes campos:
 
 - Observação:
 	
-*Os campos aceitam qualquer entrada de dados, pois o projeto está em desenvolvimento;
-*Para salvar os dados, clique em  "Cadastrar";
-*Caso algum campo estiver em branco ele retornará uma mensagem informando que "Os campos não podem estar vazios";
-*Após cadastrar as informações os campos seram limpos automaticamente.
+- Os campos aceitam qualquer entrada de dados, pois o projeto está em desenvolvimento;
+- Para salvar os dados, clique em  "Cadastrar";
+- Caso algum campo estiver em branco ele retornará uma mensagem informando que "Os campos não podem estar vazios";
+- Após cadastrar as informações os campos seram limpos automaticamente.
 
 ---
 
