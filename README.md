@@ -46,7 +46,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 ---
 
-### VÍDEO DE APRESENTAÇÃO DAS ENTREGAS:
+### VÍDEO DE APRESENTAÇÃO DAS ENTREGAS: 
 
 > - [Vídeo 01 - Sprint 01](https://drive.google.com/file/d/15jyLiNlI4ROETPznqx-H09QlZZ691C35/view?usp=sharing)
 > - [Vídeo 02 - Sprint 02](https://drive.google.com/file/d/1yMGlzzZ68rYnkbwdPhe_jft0DxHuUz5P/view?usp=sharing)
@@ -72,7 +72,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 ---
 
-## DEV TEAM :computer:
+## DEV TEAM :computer: 
 
 > - [Mateus](https://github.com/mateuscamargo)
 > - [Isidro](https://github.com/Isidro013)
@@ -81,18 +81,18 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 > - [Israel](https://github.com/israelaguiar)
 
  ---
-## SCRUM MASTER :three_button_mouse:
+## SCRUM MASTER :mechanical_arm:
 
 > - [Vitor](https://github.com/assenvitor)
 
-## P.O :score:
+## P.O :mechanical_arm:
 
 > - [Lucas](https://github.com/LucasMonteiiroo)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NjI1NTQwMCwxMjc3NDcwMDQ5LC03Mj
+eyJoaXN0b3J5IjpbMTA4Njg3NTA3MSwxODQ2MjU1NDAwLC03Mj
 A2NDE4ODgsLTExOTYxMTYwMzIsMTYxOTcxNjc3NiwyMDY5ODAx
 NzY5LC0xMjU1ODE1NTEwLC04MzE5OTEwNTAsLTIxNDA5NTQ1Nj
 YsMTY1NDU5MjgxNiw3MzQ4MTAxMDUsNzcxNTY5NTIzLDI1NDA1
