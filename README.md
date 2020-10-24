@@ -47,7 +47,6 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 ---
 
 ### VÍDEO DE APRESENTAÇÃO DAS ENTREGAS: 
-
 > - [Vídeo 01 - Sprint 01](https://drive.google.com/file/d/15jyLiNlI4ROETPznqx-H09QlZZ691C35/view?usp=sharing)
 > - [Vídeo 02 - Sprint 02](https://drive.google.com/file/d/1yMGlzzZ68rYnkbwdPhe_jft0DxHuUz5P/view?usp=sharing)
 
@@ -60,7 +59,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 >   - [2º - Baixar Executável - Versão 1.0](https://github.com/assenvitor/ProjetoTecSUS/raw/master/Sprint%2002/Execut%C3%A1vel/DigiCont.jar) 
 >    - 3º - Rodar Executável
 ---
-## FERRAMENTAS: 
+## FERRAMENTAS: :wrench:
 > - [GitHub](https://github.com/assenvitor/ProjetoTecSUS)
 > - [Trello](https://trello.com)
 > - [BrModelo2.0](https://baixe.net/baixar/down4373.html)
@@ -92,11 +91,11 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0OTg2NzIyLC00MjIxNTkwNDUsMTg0Nj
-I1NTQwMCwtNzIwNjQxODg4LC0xMTk2MTE2MDMyLDE2MTk3MTY3
-NzYsMjA2OTgwMTc2OSwtMTI1NTgxNTUxMCwtODMxOTkxMDUwLC
-0yMTQwOTU0NTY2LDE2NTQ1OTI4MTYsNzM0ODEwMTA1LDc3MTU2
-OTUyMywyNTQwNTE4LC0yOTY4MTY0NjgsLTc4NDE4OTg1MCwtOD
-gwMjA3MTIzLC02MTgzNjcyNTYsLTIwMTIyMTQ1ODQsNjc4NzM2
-Mzg0XX0=
+eyJoaXN0b3J5IjpbLTE4MzQ1NjI3NDUsOTA0OTg2NzIyLDE4ND
+YyNTU0MDAsLTcyMDY0MTg4OCwtMTE5NjExNjAzMiwxNjE5NzE2
+Nzc2LDIwNjk4MDE3NjksLTEyNTU4MTU1MTAsLTgzMTk5MTA1MC
+wtMjE0MDk1NDU2NiwxNjU0NTkyODE2LDczNDgxMDEwNSw3NzE1
+Njk1MjMsMjU0MDUxOCwtMjk2ODE2NDY4LC03ODQxODk4NTAsLT
+g4MDIwNzEyMywtNjE4MzY3MjU2LC0yMDEyMjE0NTg0LDY3ODcz
+NjM4NF19
 -->
