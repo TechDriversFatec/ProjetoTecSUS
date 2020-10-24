@@ -12,38 +12,42 @@
 
 - Menu
 
-     O usuário poderá escolher entre:
+O usuário poderá escolher entre:
 
-	*Fornecedor:
-	   - Buscar 
+*Fornecedor:
+   - Buscar 
 	
-	*Cliente:
-	   - Cadastrar;
-	   - Editar;
-	   - Gerar Relatório.
+*Cliente:
+   - Cadastrar;
+   - Editar;
+   - Gerar Relatório.
      
-      - Tela Cadastro Água	
+  ---
+  
+- Tela Cadastro Água	
 
-     O usuário irá encontrar os seguintes campos:
+O usuário irá encontrar os seguintes campos:
+   - Consumo M3;
+   - Valor Total;
+   - Mês da conta;
+   - Valor Água;
+   - Valor Esgoto.
 
-	   - Consumo M3;
-	   - Valor Total;
-	   - Mês da conta;
-	   - Valor Água;
-	   - Valor Esgoto.
+  ---
 
-     Obs:
+- Observação:
 	
-             *Os campos aceitam qualquer entrada de dados, pois o projeto está em desenvolvimento;
-             *Para salvar os dados, clique em  "Cadastrar";
-             *Caso algum campo estiver em branco ele retornará uma mensagem informando que "Os campos não podem estar vazios";
-             *Após cadastrar as informações os campos seram limpos automaticamente.
+*Os campos aceitam qualquer entrada de dados, pois o projeto está em desenvolvimento;
+*Para salvar os dados, clique em  "Cadastrar";
+*Caso algum campo estiver em branco ele retornará uma mensagem informando que "Os campos não podem estar vazios";
+*Após cadastrar as informações os campos seram limpos automaticamente.
 
-
+---
 
 **Download Software**
 - [DigiCont 1.0](https://github.com/assenvitor/ProjetoTecSUS/raw/master/Sprint%2002/Execut%C3%A1vel/DigiCont.jar)
 
+---
 
 ### DEV TEAM
 - [Mateus](https://github.com/mateuscamargo)
