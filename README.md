@@ -53,7 +53,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 > - [Vídeo 02 - Sprint 02](https://drive.google.com/file/d/1yMGlzzZ68rYnkbwdPhe_jft0DxHuUz5P/view?usp=sharing)
 
 ---
-### DOCUMENTAÇÃO:
+### DOCUMENTAÇÃO: 
 
 >   - [1º - Instalar Java JDK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
 >   - [2º - Baixar Executável - Versão 1.0](https://github.com/assenvitor/ProjetoTecSUS/raw/master/Sprint%2002/Execut%C3%A1vel/DigiCont.jar) 
@@ -91,11 +91,11 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzk0MjI0NjgsMTE5NDAyNDQyNSwyOD
-IwOTY4OTcsLTM4NDE3NDg1LC00NDcwODY4NTQsMTM5MzEwOTg3
-NywtNjQyNDkzMjc5LC02NDI0OTMyNzksOTA0OTg2NzIyLDE4ND
-YyNTU0MDAsLTcyMDY0MTg4OCwtMTE5NjExNjAzMiwxNjE5NzE2
-Nzc2LDIwNjk4MDE3NjksLTEyNTU4MTU1MTAsLTgzMTk5MTA1MC
-wtMjE0MDk1NDU2NiwxNjU0NTkyODE2LDczNDgxMDEwNSw3NzE1
-Njk1MjNdfQ==
+eyJoaXN0b3J5IjpbNDUyMzgwMzY0LDExOTQwMjQ0MjUsMjgyMD
+k2ODk3LC0zODQxNzQ4NSwtNDQ3MDg2ODU0LDEzOTMxMDk4Nzcs
+LTY0MjQ5MzI3OSwtNjQyNDkzMjc5LDkwNDk4NjcyMiwxODQ2Mj
+U1NDAwLC03MjA2NDE4ODgsLTExOTYxMTYwMzIsMTYxOTcxNjc3
+NiwyMDY5ODAxNzY5LC0xMjU1ODE1NTEwLC04MzE5OTEwNTAsLT
+IxNDA5NTQ1NjYsMTY1NDU5MjgxNiw3MzQ4MTAxMDUsNzcxNTY5
+NTIzXX0=
 -->
