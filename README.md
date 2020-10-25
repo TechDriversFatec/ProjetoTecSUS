@@ -50,7 +50,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 ### VÍDEO DE APRESENTAÇÃO DAS ENTREGAS: :movie_camera:
 > - [Vídeo 01 - Sprint 01](https://drive.google.com/file/d/15jyLiNlI4ROETPznqx-H09QlZZ691C35/view?usp=sharing)
-> - [Vídeo 02 - Sprint 02](https://drive.google.com/file/d/1yMGlzzZ68rYnkbwdPhe_jft0DxHuUz5P/view?usp=sharing)
+> - [Vídeo 02 - Sprint 02](https://drive.google.com/file/d/1-VOfvdUczYAFusXxu059NvGZU7DiC1WN/view?usp=sharing)
 
 ---
 ### DOCUMENTAÇÃO: :book: 
