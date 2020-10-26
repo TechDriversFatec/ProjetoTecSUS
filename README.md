@@ -6,9 +6,9 @@
 ![enter image description here](https://github.com/assenvitor/ProjetoTecSUS/blob/master/Sprint%2001/Logo/DIGI%20CONT.png?raw=true%02)
 
 
-# Projeto TecSUS - Tecnologias para a Sustentabilidade :chart_with_upwards_trend:
+# Projeto TecSUS - Tecnologias para a Sustentabilidade 
 
-### DESENVOLVIMENTO DE SOFTWARE PARA EMPRESA TECSUS.
+## DESENVOLVIMENTO DE SOFTWARE PARA EMPRESA TECSUS. :chart_with_upwards_trend:
 
 - **Nome do Grupo:** Fatec Cloud
 - **Nome do Software:** Digi Cont
@@ -91,11 +91,11 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg0MDU1NSwxMTk0MDI0NDI1LDI4Mj
-A5Njg5NywtMzg0MTc0ODUsLTQ0NzA4Njg1NCwxMzkzMTA5ODc3
-LC02NDI0OTMyNzksLTY0MjQ5MzI3OSw5MDQ5ODY3MjIsMTg0Nj
-I1NTQwMCwtNzIwNjQxODg4LC0xMTk2MTE2MDMyLDE2MTk3MTY3
-NzYsMjA2OTgwMTc2OSwtMTI1NTgxNTUxMCwtODMxOTkxMDUwLC
-0yMTQwOTU0NTY2LDE2NTQ1OTI4MTYsNzM0ODEwMTA1LDc3MTU2
-OTUyM119
+eyJoaXN0b3J5IjpbLTE2MTQyNzc5NjksLTE0Nzg0MDU1NSwxMT
+k0MDI0NDI1LDI4MjA5Njg5NywtMzg0MTc0ODUsLTQ0NzA4Njg1
+NCwxMzkzMTA5ODc3LC02NDI0OTMyNzksLTY0MjQ5MzI3OSw5MD
+Q5ODY3MjIsMTg0NjI1NTQwMCwtNzIwNjQxODg4LC0xMTk2MTE2
+MDMyLDE2MTk3MTY3NzYsMjA2OTgwMTc2OSwtMTI1NTgxNTUxMC
+wtODMxOTkxMDUwLC0yMTQwOTU0NTY2LDE2NTQ1OTI4MTYsNzM0
+ODEwMTA1XX0=
 -->
