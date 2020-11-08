@@ -59,6 +59,7 @@ Na terceira Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end
 ### VÍDEO DE APRESENTAÇÃO DAS ENTREGAS: :movie_camera:
 > - [Vídeo 01 - Sprint 01](https://drive.google.com/file/d/15jyLiNlI4ROETPznqx-H09QlZZ691C35/view?usp=sharing)
 > - [Vídeo 02 - Sprint 02](https://drive.google.com/file/d/1-VOfvdUczYAFusXxu059NvGZU7DiC1WN/view?usp=sharing)
+> - [Vídeo 03 - Sprint 03](https://drive.google.com/file/d/138vTd9Y3UENIxvIYrA-mT23AYv4N6KDY/view?usp=sharing)
 
 ---
 ### DOCUMENTAÇÃO: :book: 
@@ -98,11 +99,11 @@ Na terceira Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTU3MjI1MiwtMTYxNDI3Nzk2OSwtMT
-Q3ODQwNTU1LDExOTQwMjQ0MjUsMjgyMDk2ODk3LC0zODQxNzQ4
-NSwtNDQ3MDg2ODU0LDEzOTMxMDk4NzcsLTY0MjQ5MzI3OSwtNj
-QyNDkzMjc5LDkwNDk4NjcyMiwxODQ2MjU1NDAwLC03MjA2NDE4
-ODgsLTExOTYxMTYwMzIsMTYxOTcxNjc3NiwyMDY5ODAxNzY5LC
-0xMjU1ODE1NTEwLC04MzE5OTEwNTAsLTIxNDA5NTQ1NjYsMTY1
-NDU5MjgxNl19
+eyJoaXN0b3J5IjpbNTkzMjU0NzY4LC0xNjE0Mjc3OTY5LC0xND
+c4NDA1NTUsMTE5NDAyNDQyNSwyODIwOTY4OTcsLTM4NDE3NDg1
+LC00NDcwODY4NTQsMTM5MzEwOTg3NywtNjQyNDkzMjc5LC02ND
+I0OTMyNzksOTA0OTg2NzIyLDE4NDYyNTU0MDAsLTcyMDY0MTg4
+OCwtMTE5NjExNjAzMiwxNjE5NzE2Nzc2LDIwNjk4MDE3NjksLT
+EyNTU4MTU1MTAsLTgzMTk5MTA1MCwtMjE0MDk1NDU2NiwxNjU0
+NTkyODE2XX0=
 -->
