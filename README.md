@@ -50,7 +50,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 - **Proposta:**
 
-Na terceiraSprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de toda aplicação, utilizando a ferramenta Eclipse. O desenvolvimento do Back-end foi realizado a manipulação de dados para a gravação das informações contidas nos Layouts criados pelo desenvolvimento do Front-end.
+Na terceira Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end de toda aplicação, utilizando a ferramenta Eclipse. O desenvolvimento do Back-end foi realizado a manipulação de dados para a gravação de algumas informações da conta de energia. Também foi implementado a tela de o
 **Tempo da Sprint:** 28/09/2020 até 18/10/2020.
 
 ---
@@ -97,11 +97,11 @@ Na terceiraSprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTAyODMxMSwtMTYxNDI3Nzk2OSwtMT
-Q3ODQwNTU1LDExOTQwMjQ0MjUsMjgyMDk2ODk3LC0zODQxNzQ4
-NSwtNDQ3MDg2ODU0LDEzOTMxMDk4NzcsLTY0MjQ5MzI3OSwtNj
-QyNDkzMjc5LDkwNDk4NjcyMiwxODQ2MjU1NDAwLC03MjA2NDE4
-ODgsLTExOTYxMTYwMzIsMTYxOTcxNjc3NiwyMDY5ODAxNzY5LC
-0xMjU1ODE1NTEwLC04MzE5OTEwNTAsLTIxNDA5NTQ1NjYsMTY1
-NDU5MjgxNl19
+eyJoaXN0b3J5IjpbNjY2Njk4OTIzLC0xNjE0Mjc3OTY5LC0xND
+c4NDA1NTUsMTE5NDAyNDQyNSwyODIwOTY4OTcsLTM4NDE3NDg1
+LC00NDcwODY4NTQsMTM5MzEwOTg3NywtNjQyNDkzMjc5LC02ND
+I0OTMyNzksOTA0OTg2NzIyLDE4NDYyNTU0MDAsLTcyMDY0MTg4
+OCwtMTE5NjExNjAzMiwxNjE5NzE2Nzc2LDIwNjk4MDE3NjksLT
+EyNTU4MTU1MTAsLTgzMTk5MTA1MCwtMjE0MDk1NDU2NiwxNjU0
+NTkyODE2XX0=
 -->
