@@ -32,7 +32,7 @@ import java.awt.event.ActionEvent;
 import javax.swing.ImageIcon;
 
 
-public class TelaCadastro {
+public class TelaEditarAgua {
 
 	JFrame frmTelaCadastro;
 	private JTextField tFConsumo;
@@ -54,7 +54,7 @@ public class TelaCadastro {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
-					TelaCadastro window = new TelaCadastro();
+					TelaEditarAgua window = new TelaEditarAgua();
 					window.frmTelaCadastro.setVisible(true);
 				} catch (Exception e) {
 					e.printStackTrace();
@@ -66,7 +66,7 @@ public class TelaCadastro {
 	/**
 	 * Create the application.
 	 */
-	public TelaCadastro() {
+	public TelaEditarAgua() {
 		initialize();
 	}
 
@@ -79,7 +79,7 @@ public class TelaCadastro {
 		frmTelaCadastro.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frmTelaCadastro.getContentPane().setBackground(Color.WHITE);
 		frmTelaCadastro.setForeground(Color.LIGHT_GRAY);
-		frmTelaCadastro.setTitle("TELA CADASTRO \u00C1GUA");
+		frmTelaCadastro.setTitle("TELA EDITAR \u00C1GUA");
 		frmTelaCadastro.setBounds(100, 100, 960, 720);
 		frmTelaCadastro.getContentPane().setLayout(null);
 		frmTelaCadastro.setLocationRelativeTo(null);
@@ -160,7 +160,7 @@ public class TelaCadastro {
 		textField_7.setBounds(721, 365, 86, 20);
 		frmTelaCadastro.getContentPane().add(textField_7);
 		
-		JButton btnCadastrar = new JButton("Cadastrar");
+		JButton btnCadastrar = new JButton("Atualizar");
 		btnCadastrar.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
@@ -180,7 +180,7 @@ public class TelaCadastro {
 
 				    CadastroAguaDAO cadagua = new CadastroAguaDAO();
 				    cadagua.adiciona(cadaguadao);
-				    JOptionPane.showMessageDialog(null, "Conta registrada com sucesso! ");
+				    JOptionPane.showMessageDialog(null, "Conta atualizada com sucesso! ");
 				}
 				
 				tFConsumo.setText("");

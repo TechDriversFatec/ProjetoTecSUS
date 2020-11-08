@@ -1,81 +1,84 @@
 package DigiCont;
 
+import java.sql.Date;
+
 public class CadastroEnegia {
-
-	
-		
 	
 	
-}
-
+	public String ContaLuzID;
+	public String ContaLuzValorTotal;
+	public String ContaLuzDataVencimento; 
+	public String ContaLuzMes;
+	public String ContaLuzEmissao;
+	public String ContaLuzAnterior; 
+	public String ContaLuzAtual;
+	public String ContaLuzDiasFaturamento;
+	public String ContaLuzPrevisaoProximaLuz;
+	public String ContaLuzAviso;
 	
-/*	public String consumo;
-	public String valorTotal;
-	public String mesConta;
-	public String faixaConsumo;
-	public String valorAgua;
-	public String valorEsgoto;
-		
-
-public String inscricao;
-public String getInscricao() {
-	return inscricao;
-}
-public void setInscricao(String inscricao) {
-	this.inscricao = inscricao;
-}
-public String getConsumo() {
-	return consumo;
-}
-public void setConsumo(String consumo) {
-	this.consumo = consumo;
-}
-public String getValorTotal() {
-	return valorTotal;
-}
-public void setValorTotal(String valorTotal) {
-	this.valorTotal = valorTotal;
-}
-public String getMesConta() {
-	return mesConta;
-}
-public void setMesConta(String mesConta) {
-	this.mesConta = mesConta;
-}
-public String getFaixaConsumo() {
-	return faixaConsumo;
-}
-public void setFaixaConsumo(String faixaConsumo) {
-	this.faixaConsumo = faixaConsumo;
-}
-public String getValorAgua() {
-	return valorAgua;
-}
-public void setValorAgua(String valorAgua) {
-	this.valorAgua = valorAgua;
-}
-public String getValorEsgoto() {
-	return valorEsgoto;
-}
-public void setValorEsgoto(String valorEsgoto) {
-	this.valorEsgoto = valorEsgoto;
- }
-}
-*/
-	// Construtores
 	
-	/*public CadastroAgua(int inscricao, double consumo, double valorTotal, String mesConta, int faixaConsumo, double valorAgua, double valorEsgoto) {
-		super();
-		this.inscricao = inscricao;
-		this.consumo = consumo;
-		this.valorTotal = valorTotal;
-		this.mesConta = mesConta;
-		this.valorAgua = valorAgua;
-		this.valorEsgoto = valorEsgoto;
-		
+	public String getContaLuzID() {
+		return ContaLuzID;
 	}
-	*/
+	public void setContaLuzID(String contaLuzID) {
+		ContaLuzID = contaLuzID;
+	}
+	public String getContaLuzValorTotal() {
+		return ContaLuzValorTotal;
+	}
+	public void setContaLuzValorTotal(String contaLuzValorTotal) {
+		ContaLuzValorTotal = contaLuzValorTotal;
+	}
+	public String getContaLuzDataVencimento() {
+		return ContaLuzDataVencimento;
+	}
+	public void setContaLuzDataVencimento(String contaLuzDataVencimento) {
+		ContaLuzDataVencimento = contaLuzDataVencimento;
+	}
+	public String getContaLuzMes() {
+		return ContaLuzMes;
+	}
+	public void setContaLuzMes(String contaLuzMes) {
+		ContaLuzMes = contaLuzMes;
+	}
+	public String getContaLuzEmissao() {
+		return ContaLuzEmissao;
+	}
+	public void setContaLuzEmissao(String contaLuzEmissao) {
+		ContaLuzEmissao = contaLuzEmissao;
+	}
+	public String getContaLuzAnterior() {
+		return ContaLuzAnterior;
+	}
+	public void setContaLuzAnterior(String contaLuzAnterior) {
+		ContaLuzAnterior = contaLuzAnterior;
+	}
+	public String getContaLuzAtual() {
+		return ContaLuzAtual;
+	}
+	public void setContaLuzAtual(String contaLuzAtual) {
+		ContaLuzAtual = contaLuzAtual;
+	}
+	public String getContaLuzDiasFaturamento() {
+		return ContaLuzDiasFaturamento;
+	}
+	public void setContaLuzDiasFaturamento(String contaLuzDiasFaturamento) {
+		ContaLuzDiasFaturamento = contaLuzDiasFaturamento;
+	}
+	public String getContaLuzPrevisaoProximaLuz() {
+		return ContaLuzPrevisaoProximaLuz;
+	}
+	public void setContaLuzPrevisaoProximaLuz(String contaLuzPrevisaoProximaLuz) {
+		ContaLuzPrevisaoProximaLuz = contaLuzPrevisaoProximaLuz;
+	}
+	public String getContaLuzAviso() {
+		return ContaLuzAviso;
+	}
+	public void setContaLuzAviso(String contaLuzAviso) {
+		ContaLuzAviso = contaLuzAviso;
+	}
 	
-	// Setters e Getters	
-		
-		
+}
+
+
+

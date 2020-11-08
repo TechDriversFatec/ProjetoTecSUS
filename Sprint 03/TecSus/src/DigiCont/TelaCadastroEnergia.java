@@ -1,6 +1,6 @@
 package DigiCont;
 
-import DAO.CadastroAguaDAO;
+import DAO.CadastroEnergiaDAO;
 
 
 
@@ -30,29 +30,35 @@ import javax.swing.JMenuBar;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 import javax.swing.ImageIcon;
+import javax.swing.JTabbedPane;
+import javax.swing.JPanel;
+import javax.swing.JLayeredPane;
 
 
 public class TelaCadastroEnergia {
 
 	JFrame frmTelaCadastroEnergia;
-	private JTextField tFConsumo;
+	private JTextField nintalacao;
 	private ImageIcon imageIcon;
 	private JLabel lblIconAgua;
-	private JTextField textField;
-	private JTextField textField_1;
-	private JTextField textField_2;
-	private JTextField textField_3;
+	private JTextField lblVTotal;
+	private JTextField lblDataVencimento;
+	private JTextField lblMesConta;
+	private JTextField lblDataEmissao;
 	private JLabel lblNewLabel_2;
-	private JTextField textField_4;
+	private JTextField lblLeituraAnterior;
 	private JLabel lblNewLabel_1_3;
-	private JTextField textField_5;
+	private JTextField lblLeituraAtual;
 	private JLabel lblNewLabel_1_4;
-	private JTextField textField_6;
+	private JTextField lblDiasFaturamento;
 	private JLabel lblNewLabel_1_2_2;
-	private JTextField textField_7;
+	private JTextField lblProxLeitu;
 	private JLabel lblNewLabel_3;
-	private JTextField textField_8;
+	private JTextField lblAviso;
 	private JLabel lblNewLabel_1_2_3;
+	private JButton btnNewButton;
+	private JButton btnCadastrar;
+	private JButton btnCad;
 	
 
 	/**
@@ -100,11 +106,11 @@ public class TelaCadastroEnergia {
 		lblNewLabel.setBounds(121, 135, 140, 28);
 		frmTelaCadastroEnergia.getContentPane().add(lblNewLabel);
 		
-		tFConsumo = new JTextField();
-		tFConsumo.setHorizontalAlignment(SwingConstants.CENTER);
-		tFConsumo.setBounds(121, 163, 140, 20);
-		frmTelaCadastroEnergia.getContentPane().add(tFConsumo);
-		tFConsumo.setColumns(10);
+		nintalacao = new JTextField();
+		nintalacao.setHorizontalAlignment(SwingConstants.CENTER);
+		nintalacao.setBounds(121, 163, 140, 20);
+		frmTelaCadastroEnergia.getContentPane().add(nintalacao);
+		nintalacao.setColumns(10);
 
 		
 		imageIcon = new ImageIcon("img/IconAgua.png");
@@ -112,17 +118,17 @@ public class TelaCadastroEnergia {
 		lblIconAgua.setBounds(10, 10, 30, 30);
 		frmTelaCadastroEnergia.getContentPane().add(lblIconAgua);
 		
-		JLabel lblNewLabel_1 = new JLabel("Valor Total:");
-		lblNewLabel_1.setHorizontalAlignment(SwingConstants.CENTER);
-		lblNewLabel_1.setFont(new Font("Tahoma", Font.PLAIN, 15));
-		lblNewLabel_1.setBounds(304, 135, 140, 28);
-		frmTelaCadastroEnergia.getContentPane().add(lblNewLabel_1);
+		JLabel lblValorTotal = new JLabel("Valor Total:");
+		lblValorTotal.setHorizontalAlignment(SwingConstants.CENTER);
+		lblValorTotal.setFont(new Font("Tahoma", Font.PLAIN, 15));
+		lblValorTotal.setBounds(304, 135, 140, 28);
+		frmTelaCadastroEnergia.getContentPane().add(lblValorTotal);
 		
-		textField = new JTextField();
-		textField.setHorizontalAlignment(SwingConstants.CENTER);
-		textField.setColumns(10);
-		textField.setBounds(304, 163, 140, 20);
-		frmTelaCadastroEnergia.getContentPane().add(textField);
+		lblVTotal = new JTextField();
+		lblVTotal.setHorizontalAlignment(SwingConstants.CENTER);
+		lblVTotal.setColumns(10);
+		lblVTotal.setBounds(304, 163, 140, 20);
+		frmTelaCadastroEnergia.getContentPane().add(lblVTotal);
 		
 		JLabel lblNewLabel_1_1 = new JLabel("Data Vencimento:");
 		lblNewLabel_1_1.setHorizontalAlignment(SwingConstants.CENTER);
@@ -130,11 +136,11 @@ public class TelaCadastroEnergia {
 		lblNewLabel_1_1.setBounds(486, 135, 140, 28);
 		frmTelaCadastroEnergia.getContentPane().add(lblNewLabel_1_1);
 		
-		textField_1 = new JTextField();
-		textField_1.setHorizontalAlignment(SwingConstants.CENTER);
-		textField_1.setColumns(10);
-		textField_1.setBounds(486, 163, 140, 20);
-		frmTelaCadastroEnergia.getContentPane().add(textField_1);
+		lblDataVencimento = new JTextField();
+		lblDataVencimento.setHorizontalAlignment(SwingConstants.CENTER);
+		lblDataVencimento.setColumns(10);
+		lblDataVencimento.setBounds(486, 163, 140, 20);
+		frmTelaCadastroEnergia.getContentPane().add(lblDataVencimento);
 		
 		JLabel lblNewLabel_1_2 = new JLabel("M\u00EAs da Conta:");
 		lblNewLabel_1_2.setHorizontalAlignment(SwingConstants.CENTER);
@@ -142,11 +148,11 @@ public class TelaCadastroEnergia {
 		lblNewLabel_1_2.setBounds(668, 135, 140, 28);
 		frmTelaCadastroEnergia.getContentPane().add(lblNewLabel_1_2);
 		
-		textField_2 = new JTextField();
-		textField_2.setHorizontalAlignment(SwingConstants.CENTER);
-		textField_2.setColumns(10);
-		textField_2.setBounds(668, 163, 140, 20);
-		frmTelaCadastroEnergia.getContentPane().add(textField_2);
+		lblMesConta = new JTextField();
+		lblMesConta.setHorizontalAlignment(SwingConstants.CENTER);
+		lblMesConta.setColumns(10);
+		lblMesConta.setBounds(668, 163, 140, 20);
+		frmTelaCadastroEnergia.getContentPane().add(lblMesConta);
 		
 		JLabel lblNewLabel_1_2_1 = new JLabel("Data Emiss\u00E3o:");
 		lblNewLabel_1_2_1.setHorizontalAlignment(SwingConstants.CENTER);
@@ -154,11 +160,11 @@ public class TelaCadastroEnergia {
 		lblNewLabel_1_2_1.setBounds(121, 282, 140, 28);
 		frmTelaCadastroEnergia.getContentPane().add(lblNewLabel_1_2_1);
 		
-		textField_3 = new JTextField();
-		textField_3.setHorizontalAlignment(SwingConstants.CENTER);
-		textField_3.setColumns(10);
-		textField_3.setBounds(121, 310, 140, 20);
-		frmTelaCadastroEnergia.getContentPane().add(textField_3);
+		lblDataEmissao = new JTextField();
+		lblDataEmissao.setHorizontalAlignment(SwingConstants.CENTER);
+		lblDataEmissao.setColumns(10);
+		lblDataEmissao.setBounds(121, 310, 140, 20);
+		frmTelaCadastroEnergia.getContentPane().add(lblDataEmissao);
 		
 		lblNewLabel_2 = new JLabel("Leitura Anterior:");
 		lblNewLabel_2.setHorizontalAlignment(SwingConstants.CENTER);
@@ -166,11 +172,11 @@ public class TelaCadastroEnergia {
 		lblNewLabel_2.setBounds(304, 282, 140, 28);
 		frmTelaCadastroEnergia.getContentPane().add(lblNewLabel_2);
 		
-		textField_4 = new JTextField();
-		textField_4.setHorizontalAlignment(SwingConstants.CENTER);
-		textField_4.setColumns(10);
-		textField_4.setBounds(304, 310, 140, 20);
-		frmTelaCadastroEnergia.getContentPane().add(textField_4);
+		lblLeituraAnterior = new JTextField();
+		lblLeituraAnterior.setHorizontalAlignment(SwingConstants.CENTER);
+		lblLeituraAnterior.setColumns(10);
+		lblLeituraAnterior.setBounds(304, 310, 140, 20);
+		frmTelaCadastroEnergia.getContentPane().add(lblLeituraAnterior);
 		
 		lblNewLabel_1_3 = new JLabel("Leitura Atual:");
 		lblNewLabel_1_3.setHorizontalAlignment(SwingConstants.CENTER);
@@ -178,11 +184,11 @@ public class TelaCadastroEnergia {
 		lblNewLabel_1_3.setBounds(486, 282, 140, 28);
 		frmTelaCadastroEnergia.getContentPane().add(lblNewLabel_1_3);
 		
-		textField_5 = new JTextField();
-		textField_5.setHorizontalAlignment(SwingConstants.CENTER);
-		textField_5.setColumns(10);
-		textField_5.setBounds(486, 310, 140, 20);
-		frmTelaCadastroEnergia.getContentPane().add(textField_5);
+		lblLeituraAtual = new JTextField();
+		lblLeituraAtual.setHorizontalAlignment(SwingConstants.CENTER);
+		lblLeituraAtual.setColumns(10);
+		lblLeituraAtual.setBounds(486, 310, 140, 20);
+		frmTelaCadastroEnergia.getContentPane().add(lblLeituraAtual);
 		
 		lblNewLabel_1_4 = new JLabel("N\u00BA Dias Faturamento:");
 		lblNewLabel_1_4.setHorizontalAlignment(SwingConstants.CENTER);
@@ -190,11 +196,11 @@ public class TelaCadastroEnergia {
 		lblNewLabel_1_4.setBounds(661, 282, 160, 28);
 		frmTelaCadastroEnergia.getContentPane().add(lblNewLabel_1_4);
 		
-		textField_6 = new JTextField();
-		textField_6.setHorizontalAlignment(SwingConstants.CENTER);
-		textField_6.setColumns(10);
-		textField_6.setBounds(668, 310, 140, 20);
-		frmTelaCadastroEnergia.getContentPane().add(textField_6);
+		lblDiasFaturamento = new JTextField();
+		lblDiasFaturamento.setHorizontalAlignment(SwingConstants.CENTER);
+		lblDiasFaturamento.setColumns(10);
+		lblDiasFaturamento.setBounds(668, 310, 140, 20);
+		frmTelaCadastroEnergia.getContentPane().add(lblDiasFaturamento);
 		
 		lblNewLabel_1_2_2 = new JLabel("Prev Prox Leitura:");
 		lblNewLabel_1_2_2.setHorizontalAlignment(SwingConstants.CENTER);
@@ -202,11 +208,11 @@ public class TelaCadastroEnergia {
 		lblNewLabel_1_2_2.setBounds(121, 401, 140, 28);
 		frmTelaCadastroEnergia.getContentPane().add(lblNewLabel_1_2_2);
 		
-		textField_7 = new JTextField();
-		textField_7.setHorizontalAlignment(SwingConstants.CENTER);
-		textField_7.setColumns(10);
-		textField_7.setBounds(121, 429, 140, 20);
-		frmTelaCadastroEnergia.getContentPane().add(textField_7);
+		lblProxLeitu = new JTextField();
+		lblProxLeitu.setHorizontalAlignment(SwingConstants.CENTER);
+		lblProxLeitu.setColumns(10);
+		lblProxLeitu.setBounds(121, 429, 140, 20);
+		frmTelaCadastroEnergia.getContentPane().add(lblProxLeitu);
 		
 		lblNewLabel_3 = new JLabel("Aviso:");
 		lblNewLabel_3.setHorizontalAlignment(SwingConstants.CENTER);
@@ -214,11 +220,11 @@ public class TelaCadastroEnergia {
 		lblNewLabel_3.setBounds(255, 401, 140, 28);
 		frmTelaCadastroEnergia.getContentPane().add(lblNewLabel_3);
 		
-		textField_8 = new JTextField();
-		textField_8.setHorizontalAlignment(SwingConstants.CENTER);
-		textField_8.setColumns(10);
-		textField_8.setBounds(304, 429, 504, 20);
-		frmTelaCadastroEnergia.getContentPane().add(textField_8);
+		lblAviso = new JTextField();
+		lblAviso.setHorizontalAlignment(SwingConstants.CENTER);
+		lblAviso.setColumns(10);
+		lblAviso.setBounds(304, 429, 504, 20);
+		frmTelaCadastroEnergia.getContentPane().add(lblAviso);
 		
 		lblNewLabel_1_2_3 = new JLabel("PER\u00CDODO DE FATURAMENTO");
 		lblNewLabel_1_2_3.setHorizontalAlignment(SwingConstants.CENTER);
@@ -226,9 +232,51 @@ public class TelaCadastroEnergia {
 		lblNewLabel_1_2_3.setBounds(322, 243, 323, 28);
 		frmTelaCadastroEnergia.getContentPane().add(lblNewLabel_1_2_3);
 		
+		btnCad = new JButton("Cadastrar");
+		btnCad.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				CadastroEnegia cadenergiadao = new CadastroEnegia();
+				
+				cadenergiadao.setContaLuzID(nintalacao.getText());
+				cadenergiadao.setContaLuzValorTotal(lblVTotal.getText());
+				cadenergiadao.setContaLuzDataVencimento(lblDataVencimento.getText());
+				cadenergiadao.setContaLuzMes(lblMesConta.getText());
+				cadenergiadao.setContaLuzEmissao(lblDataEmissao.getText());
+				cadenergiadao.setContaLuzAnterior(lblLeituraAnterior.getText());
+				cadenergiadao.setContaLuzAtual(lblLeituraAtual.getText());
+				cadenergiadao.setContaLuzDiasFaturamento(lblDiasFaturamento.getText());
+				cadenergiadao.setContaLuzPrevisaoProximaLuz(lblProxLeitu.getText());
+				cadenergiadao.setContaLuzAviso(lblAviso.getText());
 
+				if ((nintalacao.getText().isEmpty()) || (lblVTotal.getText().isEmpty()) || (lblDataVencimento.getText().isEmpty()) || (lblMesConta.getText().isEmpty())  ||  (lblDataEmissao.getText().isEmpty()) || (lblLeituraAnterior.getText().isEmpty()) || (lblLeituraAtual.getText().isEmpty()) || (lblDiasFaturamento.getText().isEmpty()) || (lblProxLeitu.getText().isEmpty()) || (lblAviso.getText().isEmpty())) {
+					   JOptionPane.showMessageDialog(null, "Os campos não podem estar vazios");
+				}
+				
+				else {
+		
+				    CadastroEnergiaDAO cadenergia = new CadastroEnergiaDAO();
+				    cadenergia.adiciona(cadenergiadao);
+				    JOptionPane.showMessageDialog(null, "Conta registrada com sucesso! ");
+				}				
+			
+				nintalacao.setText("");
+				lblVTotal.setText("");
+				lblDataVencimento.setText("");
+				lblMesConta.setText("");
+				lblDataEmissao.setText("");
+				lblLeituraAnterior.setText("");
+				lblLeituraAtual.setText("");
+				lblDiasFaturamento.setText("");
+				lblProxLeitu.setText("");
+				lblAviso.setText("");
+				
+			}
+		});
+		btnCad.setBounds(410, 612, 105, 28);
+		frmTelaCadastroEnergia.getContentPane().add(btnCad);
 		
 		
+			
 	
 	}
 		}
