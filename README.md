@@ -67,7 +67,7 @@ Na terceira Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end
 >   - [1º - Instalar Java JDK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
 >   - [2º - Instalar MySQL](https://dev.mysql.com/downloads/installer/) 
 >   - [3º - Baixar Executável - Versão 1.0](https://github.com/assenvitor/ProjetoTecSUS/raw/master/Sprint%2002/Execut%C3%A1vel/DigiCont.jar) 
->    - 3º - Rodar Executável
+>    - 4º - Rodar Executável
 ---
 ## FERRAMENTAS: :wrench:
 > - [GitHub](https://github.com/assenvitor/ProjetoTecSUS)
@@ -100,7 +100,7 @@ Na terceira Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE3MTQxNDksNTkzMjU0NzY4LC0xNj
+eyJoaXN0b3J5IjpbLTE5MDg1MTQ5NTAsNTkzMjU0NzY4LC0xNj
 E0Mjc3OTY5LC0xNDc4NDA1NTUsMTE5NDAyNDQyNSwyODIwOTY4
 OTcsLTM4NDE3NDg1LC00NDcwODY4NTQsMTM5MzEwOTg3NywtNj
 QyNDkzMjc5LC02NDI0OTMyNzksOTA0OTg2NzIyLDE4NDYyNTU0
