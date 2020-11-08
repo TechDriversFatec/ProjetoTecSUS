@@ -46,6 +46,13 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 **Tempo da Sprint:** 28/09/2020 até 18/10/2020.
 
+[Sprint 03](https://github.com/assenvitor/ProjetoTecSUS/tree/master/Sprint%2003)
+
+- **Proposta:**
+
+Na terceiraSprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de toda aplicação, utilizando a ferramenta Eclipse. O desenvolvimento do Back-end foi realizado a manipulação de dados para a gravação das informações contidas nos Layouts criados pelo desenvolvimento do Front-end.
+**Tempo da Sprint:** 28/09/2020 até 18/10/2020.
+
 ---
 
 ### VÍDEO DE APRESENTAÇÃO DAS ENTREGAS: :movie_camera:
@@ -90,7 +97,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzY2ODE2MywtMTYxNDI3Nzk2OSwtMT
+eyJoaXN0b3J5IjpbLTI0OTAyODMxMSwtMTYxNDI3Nzk2OSwtMT
 Q3ODQwNTU1LDExOTQwMjQ0MjUsMjgyMDk2ODk3LC0zODQxNzQ4
 NSwtNDQ3MDg2ODU0LDEzOTMxMDk4NzcsLTY0MjQ5MzI3OSwtNj
 QyNDkzMjc5LDkwNDk4NjcyMiwxODQ2MjU1NDAwLC03MjA2NDE4
