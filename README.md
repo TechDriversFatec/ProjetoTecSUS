@@ -50,7 +50,7 @@ Na segunda Sprint, a equipe iniciou o desenvolvimento do Back-end e Front-end de
 
 - **Proposta:**
 
-Na terceira Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end de toda aplicação, utilizando a ferramenta Eclipse. O desenvolvimento do Back-end foi realizado a manipulação de dados para a gravação de algumas informações da conta de energia. Também foi implementado a tela de opção de cadastro de conta, a divisão dos menus e a parte da criação completa do banco de dados.
+Na terceira Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end de toda aplicação, utilizando a ferramenta Eclipse. O desenvolvimento do Back-end foi realizado a manipulação de dados para a gravação de algumas informações da conta de energia. Também foi implementado a tela de opção de cadastro de conta, a divisão dos menus e a parte da criação do banco de dados.
 
 **Tempo da Sprint:** 19/10/2020 até 08/11/2020.
 
@@ -100,7 +100,7 @@ Na terceira Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODg3NzA2ODIsNTkzMjU0NzY4LC0xNj
+eyJoaXN0b3J5IjpbLTEwMjUwNDM0MzksNTkzMjU0NzY4LC0xNj
 E0Mjc3OTY5LC0xNDc4NDA1NTUsMTE5NDAyNDQyNSwyODIwOTY4
 OTcsLTM4NDE3NDg1LC00NDcwODY4NTQsMTM5MzEwOTg3NywtNj
 QyNDkzMjc5LC02NDI0OTMyNzksOTA0OTg2NzIyLDE4NDYyNTU0
