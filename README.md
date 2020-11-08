@@ -65,7 +65,7 @@ Na terceira Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end
 ### DOCUMENTAÇÃO: :book: 
 
 >   - [1º - Instalar Java JDK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
->    - [2º - Baixar Executável - Versão 1.0](https://github.com/assenvitor/ProjetoTecSUS/raw/master/Sprint%2002/Execut%C3%A1vel/DigiCont.jar) 
+>   - [2º - Instalar MySQL](https://dev.mysql.com/downloads/installer/) 
 >   - [3º - Baixar Executável - Versão 1.0](https://github.com/assenvitor/ProjetoTecSUS/raw/master/Sprint%2002/Execut%C3%A1vel/DigiCont.jar) 
 >    - 3º - Rodar Executável
 ---
@@ -100,11 +100,11 @@ Na terceira Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjUwMjEyNSw1OTMyNTQ3NjgsLTE2MT
-QyNzc5NjksLTE0Nzg0MDU1NSwxMTk0MDI0NDI1LDI4MjA5Njg5
-NywtMzg0MTc0ODUsLTQ0NzA4Njg1NCwxMzkzMTA5ODc3LC02ND
-I0OTMyNzksLTY0MjQ5MzI3OSw5MDQ5ODY3MjIsMTg0NjI1NTQw
-MCwtNzIwNjQxODg4LC0xMTk2MTE2MDMyLDE2MTk3MTY3NzYsMj
-A2OTgwMTc2OSwtMTI1NTgxNTUxMCwtODMxOTkxMDUwLC0yMTQw
-OTU0NTY2XX0=
+eyJoaXN0b3J5IjpbLTEwMzE3MTQxNDksNTkzMjU0NzY4LC0xNj
+E0Mjc3OTY5LC0xNDc4NDA1NTUsMTE5NDAyNDQyNSwyODIwOTY4
+OTcsLTM4NDE3NDg1LC00NDcwODY4NTQsMTM5MzEwOTg3NywtNj
+QyNDkzMjc5LC02NDI0OTMyNzksOTA0OTg2NzIyLDE4NDYyNTU0
+MDAsLTcyMDY0MTg4OCwtMTE5NjExNjAzMiwxNjE5NzE2Nzc2LD
+IwNjk4MDE3NjksLTEyNTU4MTU1MTAsLTgzMTk5MTA1MCwtMjE0
+MDk1NDU2Nl19
 -->
