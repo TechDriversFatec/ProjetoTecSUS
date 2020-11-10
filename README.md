@@ -85,8 +85,6 @@ Na terceira Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end
 > - [Mateus](https://github.com/mateuscamargo)
 > - [Isidro](https://github.com/Isidro013)
 > - [Flavio](https://github.com/flavioalepereira)
-> - [Pedro](https://github.com/pedrogarcia1910)
-> - [Israel](https://github.com/israelaguiar)
 
  ---
 ## SCRUM MASTER :robot:
