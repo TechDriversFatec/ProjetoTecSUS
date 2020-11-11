@@ -2,10 +2,7 @@ package DigiCont;
 
 import DAO.CadastroAguaDAO;
 
-
-
 import java.awt.EventQueue;
-
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;
@@ -41,7 +38,6 @@ import javax.swing.table.DefaultTableModel;
 import javax.swing.Box;
 import javax.swing.JSeparator;
 
-
 public class TelaCadastro {
 
 	JFrame frmTelaCadastro;
@@ -50,30 +46,24 @@ public class TelaCadastro {
 	private JPanel panel;
 	private JTextField textField;
 	private JTextField textField_1;
-	private JTextField textField_2;
 	private JTextField textField_4;
 	private JLabel lblNome;
 	private JLabel lblEndereco;
-	private JLabel lblNMedidor;
-	private JLabel lblCodIdentificador;
+	private JLabel lblhidrometro;
 	private JTabbedPane tabbedPane;
 	private JPanel panel1;
-	private JTextField textField_3;
+	private JTextField textNConta;
 	private JLabel lblNDaConta;
 	private JLabel lblGrupo;
 	private JTextField textField_5;
 	private JLabel lblCodIdentificador_3;
-	private JTextField textField_6;
+	private JTextField textRGI;
 	private JLabel lblMesRef;
 	private JTextField textField_7;
-	private JTextField textField_8;
-	private JLabel lblMesRef_1;
 	private JLabel lblCodIdentificador_1;
 	private JTextField textField_9;
 	private JLabel lblTipFat;
 	private JTextField textField_10;
-	private JLabel lblTipFat_1;
-	private JTextField textField_11;
 	private JTextField textField_12;
 	private JLabel lblConsumoM;
 	private JLabel lblLeitAtual;
@@ -96,7 +86,9 @@ public class TelaCadastro {
 	private JTextField textField_20;
 	private JTextField textField_21;
 	private JTextField textField_22;
-	
+	private JTextField txtValorAgua;
+	private JTextField txtValorEsgoto;
+	private JTextField textField_23;
 
 	/**
 	 * Launch the application.
@@ -143,19 +135,13 @@ public class TelaCadastro {
 		textField_1 = new JTextField();
 		textField_1.setHorizontalAlignment(SwingConstants.CENTER);
 		textField_1.setColumns(10);
-		textField_1.setBounds(420, 11, 344, 20);
+		textField_1.setBounds(420, 11, 347, 20);
 		panel.add(textField_1);
-		
-		textField_2 = new JTextField();
-		textField_2.setHorizontalAlignment(SwingConstants.CENTER);
-		textField_2.setColumns(10);
-		textField_2.setBounds(171, 37, 106, 20);
-		panel.add(textField_2);
 		
 		textField_4 = new JTextField();
 		textField_4.setHorizontalAlignment(SwingConstants.CENTER);
 		textField_4.setColumns(10);
-		textField_4.setBounds(510, 33, 155, 20);
+		textField_4.setBounds(115, 47, 112, 20);
 		panel.add(textField_4);
 		
 		lblNome = new JLabel("Nome:");
@@ -169,17 +155,11 @@ public class TelaCadastro {
 		lblEndereco.setBounds(345, 6, 65, 28);
 		panel.add(lblEndereco);
 		
-		lblNMedidor = new JLabel("N\u00BA Medidor:");
-		lblNMedidor.setHorizontalAlignment(SwingConstants.CENTER);
-		lblNMedidor.setFont(new Font("Tahoma", Font.PLAIN, 12));
-		lblNMedidor.setBounds(97, 33, 65, 28);
-		panel.add(lblNMedidor);
-		
-		lblCodIdentificador = new JLabel("Cod Identificador:");
-		lblCodIdentificador.setHorizontalAlignment(SwingConstants.CENTER);
-		lblCodIdentificador.setFont(new Font("Tahoma", Font.PLAIN, 12));
-		lblCodIdentificador.setBounds(403, 29, 97, 28);
-		panel.add(lblCodIdentificador);
+		lblhidrometro = new JLabel("Hidr\u00F4metro:");
+		lblhidrometro.setHorizontalAlignment(SwingConstants.CENTER);
+		lblhidrometro.setFont(new Font("Tahoma", Font.PLAIN, 12));
+		lblhidrometro.setBounds(30, 42, 75, 28);
+		panel.add(lblhidrometro);
 		
 		tabbedPane = new JTabbedPane(JTabbedPane.TOP);
 		tabbedPane.setBounds(80, 144, 832, 425);
@@ -189,11 +169,11 @@ public class TelaCadastro {
 		tabbedPane.addTab("Dados Conta", null, panel1, null);
 		panel1.setLayout(null);
 		
-		textField_3 = new JTextField();
-		textField_3.setBounds(193, 54, 155, 20);
-		textField_3.setHorizontalAlignment(SwingConstants.CENTER);
-		textField_3.setColumns(10);
-		panel1.add(textField_3);
+		textNConta = new JTextField();
+		textNConta.setBounds(193, 54, 155, 20);
+		textNConta.setHorizontalAlignment(SwingConstants.CENTER);
+		textNConta.setColumns(10);
+		panel1.add(textNConta);
 		
 		lblNDaConta = new JLabel("N\u00BA da Conta:");
 		lblNDaConta.setBounds(215, 26, 97, 28);
@@ -219,11 +199,11 @@ public class TelaCadastro {
 		lblCodIdentificador_3.setFont(new Font("Tahoma", Font.PLAIN, 12));
 		panel1.add(lblCodIdentificador_3);
 		
-		textField_6 = new JTextField();
-		textField_6.setBounds(30, 54, 155, 20);
-		textField_6.setHorizontalAlignment(SwingConstants.CENTER);
-		textField_6.setColumns(10);
-		panel1.add(textField_6);
+		textRGI = new JTextField();
+		textRGI.setBounds(30, 54, 155, 20);
+		textRGI.setHorizontalAlignment(SwingConstants.CENTER);
+		textRGI.setColumns(10);
+		panel1.add(textRGI);
 		
 		lblMesRef = new JLabel("M\u00EAs Refer\u00EAncia:");
 		lblMesRef.setBounds(484, 26, 97, 28);
@@ -237,26 +217,14 @@ public class TelaCadastro {
 		textField_7.setColumns(10);
 		panel1.add(textField_7);
 		
-		textField_8 = new JTextField();
-		textField_8.setBounds(642, 54, 155, 20);
-		textField_8.setHorizontalAlignment(SwingConstants.CENTER);
-		textField_8.setColumns(10);
-		panel1.add(textField_8);
-		
-		lblMesRef_1 = new JLabel("RGI:");
-		lblMesRef_1.setBounds(671, 26, 97, 28);
-		lblMesRef_1.setHorizontalAlignment(SwingConstants.CENTER);
-		lblMesRef_1.setFont(new Font("Tahoma", Font.PLAIN, 12));
-		panel1.add(lblMesRef_1);
-		
 		lblCodIdentificador_1 = new JLabel("Tipo de Liga\u00E7\u00E3o:");
-		lblCodIdentificador_1.setBounds(52, 100, 97, 28);
+		lblCodIdentificador_1.setBounds(658, 26, 97, 28);
 		lblCodIdentificador_1.setHorizontalAlignment(SwingConstants.CENTER);
 		lblCodIdentificador_1.setFont(new Font("Tahoma", Font.PLAIN, 12));
 		panel1.add(lblCodIdentificador_1);
 		
 		textField_9 = new JTextField();
-		textField_9.setBounds(30, 128, 155, 20);
+		textField_9.setBounds(636, 54, 155, 20);
 		textField_9.setHorizontalAlignment(SwingConstants.CENTER);
 		textField_9.setColumns(10);
 		panel1.add(textField_9);
@@ -273,26 +241,14 @@ public class TelaCadastro {
 		textField_10.setColumns(10);
 		panel1.add(textField_10);
 		
-		lblTipFat_1 = new JLabel("Tipo de Faturamento:");
-		lblTipFat_1.setBounds(401, 100, 120, 28);
-		lblTipFat_1.setHorizontalAlignment(SwingConstants.CENTER);
-		lblTipFat_1.setFont(new Font("Tahoma", Font.PLAIN, 12));
-		panel1.add(lblTipFat_1);
-		
-		textField_11 = new JTextField();
-		textField_11.setBounds(384, 128, 155, 20);
-		textField_11.setHorizontalAlignment(SwingConstants.CENTER);
-		textField_11.setColumns(10);
-		panel1.add(textField_11);
-		
 		textField_12 = new JTextField();
-		textField_12.setBounds(560, 128, 155, 20);
+		textField_12.setBounds(455, 128, 155, 20);
 		textField_12.setHorizontalAlignment(SwingConstants.CENTER);
 		textField_12.setColumns(10);
 		panel1.add(textField_12);
 		
 		lblConsumoM = new JLabel("Consumo m\u00B3:");
-		lblConsumoM.setBounds(577, 100, 120, 28);
+		lblConsumoM.setBounds(472, 100, 120, 28);
 		lblConsumoM.setHorizontalAlignment(SwingConstants.CENTER);
 		lblConsumoM.setFont(new Font("Tahoma", Font.PLAIN, 12));
 		panel1.add(lblConsumoM);
@@ -362,14 +318,18 @@ public class TelaCadastro {
 		lblObservacao = new JLabel("Observa\u00E7\u00E3o:");
 		lblObservacao.setHorizontalAlignment(SwingConstants.CENTER);
 		lblObservacao.setFont(new Font("Tahoma", Font.PLAIN, 12));
-		lblObservacao.setBounds(69, 315, 120, 28);
+		lblObservacao.setBounds(353, 319, 120, 28);
 		panel1.add(lblObservacao);
 		
 		textField_17 = new JTextField();
 		textField_17.setHorizontalAlignment(SwingConstants.CENTER);
 		textField_17.setColumns(10);
-		textField_17.setBounds(52, 343, 507, 20);
+		textField_17.setBounds(30, 346, 767, 20);
 		panel1.add(textField_17);
+		
+		JSeparator separator_2 = new JSeparator();
+		separator_2.setBounds(444, 211, 0, 78);
+		panel1.add(separator_2);
 		
 		panel_1 = new JPanel();
 		tabbedPane.addTab("Valor Conta", null, panel_1, null);
@@ -426,39 +386,117 @@ public class TelaCadastro {
 		panel_1.add(textField_18);
 		
 		textField_19 = new JTextField();
+		textField_19.setEditable(false);
 		textField_19.setHorizontalAlignment(SwingConstants.CENTER);
 		textField_19.setColumns(10);
 		textField_19.setBounds(202, 140, 106, 20);
 		panel_1.add(textField_19);
 		
 		textField_20 = new JTextField();
+		textField_20.setEditable(false);
 		textField_20.setHorizontalAlignment(SwingConstants.CENTER);
 		textField_20.setColumns(10);
 		textField_20.setBounds(202, 179, 106, 20);
 		panel_1.add(textField_20);
 		
 		textField_21 = new JTextField();
+		textField_21.setEditable(false);
 		textField_21.setHorizontalAlignment(SwingConstants.CENTER);
 		textField_21.setColumns(10);
 		textField_21.setBounds(202, 218, 106, 20);
 		panel_1.add(textField_21);
 		
 		textField_22 = new JTextField();
+		textField_22.setEditable(false);
 		textField_22.setHorizontalAlignment(SwingConstants.CENTER);
 		textField_22.setColumns(10);
 		textField_22.setBounds(202, 257, 106, 20);
 		panel_1.add(textField_22);
-		frmTelaCadastro.setResizable(false);
-		frmTelaCadastro.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		frmTelaCadastro.setForeground(Color.WHITE);
-		frmTelaCadastro.setTitle("TELA CADASTRO \u00C1GUA");
-		frmTelaCadastro.setBounds(100, 100, 960, 720);
-		frmTelaCadastro.setLocationRelativeTo(null);
 		
-		imageIcon = new ImageIcon("img/IconAgua.png");
+		JLabel lblValorAgua = new JLabel("Valor \u00C1gua");
+		lblValorAgua.setHorizontalAlignment(SwingConstants.CENTER);
+		lblValorAgua.setFont(new Font("Tahoma", Font.PLAIN, 12));
+		lblValorAgua.setBounds(412, 57, 149, 28);
+		panel_1.add(lblValorAgua);
 		
-	
+		JLabel lblValorEsgoto = new JLabel("Valor Esgoto");
+		lblValorEsgoto.setHorizontalAlignment(SwingConstants.CENTER);
+		lblValorEsgoto.setFont(new Font("Tahoma", Font.PLAIN, 12));
+		lblValorEsgoto.setBounds(590, 57, 149, 28);
+		panel_1.add(lblValorEsgoto);
+		
+		txtValorAgua = new JTextField();
+		txtValorAgua.setHorizontalAlignment(SwingConstants.CENTER);
+		txtValorAgua.setColumns(10);
+		txtValorAgua.setBounds(434, 101, 106, 20);
+		panel_1.add(txtValorAgua);
+		
+		txtValorEsgoto = new JTextField();
+		txtValorEsgoto.setHorizontalAlignment(SwingConstants.CENTER);
+		txtValorEsgoto.setColumns(10);
+		txtValorEsgoto.setBounds(610, 101, 106, 20);
+		panel_1.add(txtValorEsgoto);
+		
+		JLabel lblValorTotal = new JLabel("Valor Total");
+		lblValorTotal.setHorizontalAlignment(SwingConstants.CENTER);
+		lblValorTotal.setFont(new Font("Tahoma", Font.PLAIN, 12));
+		lblValorTotal.setBounds(493, 135, 149, 28);
+		panel_1.add(lblValorTotal);
+		
+		textField_23 = new JTextField();
+		textField_23.setHorizontalAlignment(SwingConstants.CENTER);
+		textField_23.setColumns(10);
+		textField_23.setBounds(515, 179, 106, 20);
+		panel_1.add(textField_23);
+		
+		JButton btnCadastro = new JButton("Cadastro");
+		btnCadastro.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				
+				CadastroAgua cadaguadao = new CadastroAgua();
+				
+				cadaguadao.setContaAguaRGI(textRGI.getText());
+				cadaguadao.setContaAguaNConta(textNConta.getText());
+				
+				
+				if ((tFConsumo.getText().isEmpty()) || (textFValorTotal.getText().isEmpty()) || (textMesConta.getText().isEmpty()) || (textValorAgua.getText().isEmpty())  ||  (textValorEsgoto.getText().isEmpty())) {
+					   JOptionPane.showMessageDialog(null, "Os campos não podem estar vazios");
+					}
+				
+				else {
 
-	}
-}
+				    CadastroAguaDAO cadagua = new CadastroAguaDAO();
+				    cadagua.adiciona(cadaguadao);
+				    JOptionPane.showMessageDialog(null, "Conta registrada com sucesso! ");
+				}
+				
+				tFConsumo.setText("");
+				textFValorTotal.setText("");
+				textMesConta.setText("");
+				textValorAgua.setText("");
+				textValorEsgoto.setText("");
+									
+			}
+		});
+
 	
+		btnCadastro.setBounds(423, 623, 107, 23);
+		frmTelaCadastro.getContentPane().add(btnCadastro);
+		
+		JLabel lblNewLabel_1_1 = new JLabel("New label");
+		lblNewLabel_1_1.setIcon(new ImageIcon("C:\\Users\\assen\\eclipse-workspace\\TecSus\\img\\IconAgua.png"));
+		lblNewLabel_1_1.setBounds(10, 11, 30, 30);
+		frmTelaCadastro.getContentPane().add(lblNewLabel_1_1);
+		
+		JButton lblNewLabel_3 = new JButton("New label");
+		lblNewLabel_3.addActionListener(new ActionListener() {
+
+	public void actionPerformed(ActionEvent e) {
+		MenuEnergia window = new MenuEnergia();
+		window.frmMenuEnergia.setVisible(true);
+	}
+});lblNewLabel_3.setIcon(new ImageIcon("C:\\Users\\assen\\eclipse-workspace\\TecSus\\img\\IconReturn.png"));lblNewLabel_3.setForeground(Color.WHITE);lblNewLabel_3.setBackground(Color.WHITE);lblNewLabel_3.setBounds(31,611,60,54);frmTelaCadastro.getContentPane().add(lblNewLabel_3);frmTelaCadastro.setResizable(false);frmTelaCadastro.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);frmTelaCadastro.setForeground(Color.WHITE);frmTelaCadastro.setTitle("TELA CADASTRO \u00C1GUA");frmTelaCadastro.setBounds(100,100,960,720);frmTelaCadastro.setLocationRelativeTo(null);
+
+imageIcon=new ImageIcon("img/IconAgua.png");
+
+}}

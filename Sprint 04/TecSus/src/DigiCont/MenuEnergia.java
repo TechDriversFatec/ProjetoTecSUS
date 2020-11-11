@@ -66,8 +66,7 @@ public class MenuEnergia {
 			public void actionPerformed(ActionEvent e) {
 			
 				TelaCadastroEnergia window = new TelaCadastroEnergia();
-				window.frmTelaCadastroEnergia.setVisible(true);	
-
+				window.frame.setVisible(true);
 			}
 			
 		});
@@ -79,8 +78,6 @@ public class MenuEnergia {
 		btnEditarCli.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
-				TelaEditar window = new TelaEditar();
-				window.frame.setVisible(true);
 			}
 		});
 		btnEditarCli.setBounds(549, 260, 129, 40);

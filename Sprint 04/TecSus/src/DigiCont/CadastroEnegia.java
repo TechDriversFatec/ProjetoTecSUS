@@ -1,7 +1,7 @@
 package DigiCont;
 
 import java.sql.Date;
-import java.util.List;
+import java.util.*;
 
 public class CadastroEnegia {
 	
@@ -14,8 +14,23 @@ public class CadastroEnegia {
 	public String ContaLuzAnterior; 
 	public String ContaLuzAtual;
 	public String ContaLuzDiasFaturamento;
+	public String ContaLuzStatus;
 	public String ContaLuzPrevisaoProximaLuz;
+	public String ContaLuzValorFornecedor;
+	public String ContaLuzDataFaturamento;
 	public String ContaLuzAviso;
+	public String ContaLuzFiscalCFOP;
+	public String ContaLuzFiscalGrupo;
+	public String ContaLuzFiscalSubGrupo;
+	public String ContaLuzFiscalClasse;
+	public String ContaLuzFiscalSubClasse;
+	public String ContaLuzFiscalMulta;
+	public String ContaLuzFiscalJurosMulta;
+	public String ContaLuzFiscalTipoFornecimento;
+	public String ContaLuzFiscalModalidadeTarifaria;
+	
+	
+	//GETTER AND SETTERS
 	
 	
 	public String getContaLuzID() {
@@ -66,17 +81,89 @@ public class CadastroEnegia {
 	public void setContaLuzDiasFaturamento(String contaLuzDiasFaturamento) {
 		ContaLuzDiasFaturamento = contaLuzDiasFaturamento;
 	}
+	public String getContaLuzStatus() {
+		return ContaLuzStatus;
+	}
+	public void setContaLuzStatus(String contaLuzStatus) {
+		ContaLuzStatus = contaLuzStatus;
+	}
 	public String getContaLuzPrevisaoProximaLuz() {
 		return ContaLuzPrevisaoProximaLuz;
 	}
 	public void setContaLuzPrevisaoProximaLuz(String contaLuzPrevisaoProximaLuz) {
 		ContaLuzPrevisaoProximaLuz = contaLuzPrevisaoProximaLuz;
 	}
+	public String getContaLuzValorFornecedor() {
+		return ContaLuzValorFornecedor;
+	}
+	public void setContaLuzValorFornecedor(String contaLuzValorFornecedor) {
+		ContaLuzValorFornecedor = contaLuzValorFornecedor;
+	}
+	public String getContaLuzDataFaturamento() {
+		return ContaLuzDataFaturamento;
+	}
+	public void setContaLuzDataFaturamento(String contaLuzDataFaturamento) {
+		ContaLuzDataFaturamento = contaLuzDataFaturamento;
+	}
 	public String getContaLuzAviso() {
 		return ContaLuzAviso;
 	}
 	public void setContaLuzAviso(String contaLuzAviso) {
 		ContaLuzAviso = contaLuzAviso;
+	}
+	public String getContaLuzFiscalCFOP() {
+		return ContaLuzFiscalCFOP;
+	}
+	public void setContaLuzFiscalCFOP(String contaLuzFiscalCFOP) {
+		ContaLuzFiscalCFOP = contaLuzFiscalCFOP;
+	}
+	public String getContaLuzFiscalGrupo() {
+		return ContaLuzFiscalGrupo;
+	}
+	public void setContaLuzFiscalGrupo(String contaLuzFiscalGrupo) {
+		ContaLuzFiscalGrupo = contaLuzFiscalGrupo;
+	}
+	public String getContaLuzFiscalSubGrupo() {
+		return ContaLuzFiscalSubGrupo;
+	}
+	public void setContaLuzFiscalSubGrupo(String contaLuzFiscalSubGrupo) {
+		ContaLuzFiscalSubGrupo = contaLuzFiscalSubGrupo;
+	}
+	public String getContaLuzFiscalClasse() {
+		return ContaLuzFiscalClasse;
+	}
+	public void setContaLuzFiscalClasse(String contaLuzFiscalClasse) {
+		ContaLuzFiscalClasse = contaLuzFiscalClasse;
+	}
+	public String getContaLuzFiscalSubClasse() {
+		return ContaLuzFiscalSubClasse;
+	}
+	public void setContaLuzFiscalSubClasse(String contaLuzFiscalSubClasse) {
+		ContaLuzFiscalSubClasse = contaLuzFiscalSubClasse;
+	}
+	public String getContaLuzFiscalMulta() {
+		return ContaLuzFiscalMulta;
+	}
+	public void setContaLuzFiscalMulta(String contaLuzFiscalMulta) {
+		ContaLuzFiscalMulta = contaLuzFiscalMulta;
+	}
+	public String getContaLuzFiscalJurosMulta() {
+		return ContaLuzFiscalJurosMulta;
+	}
+	public void setContaLuzFiscalJurosMulta(String contaLuzFiscalJurosMulta) {
+		ContaLuzFiscalJurosMulta = contaLuzFiscalJurosMulta;
+	}
+	public String getContaLuzFiscalTipoFornecimento() {
+		return ContaLuzFiscalTipoFornecimento;
+	}
+	public void setContaLuzFiscalTipoFornecimento(String contaLuzFiscalTipoFornecimento) {
+		ContaLuzFiscalTipoFornecimento = contaLuzFiscalTipoFornecimento;
+	}
+	public String getContaLuzFiscalModalidadeTarifaria() {
+		return ContaLuzFiscalModalidadeTarifaria;
+	}
+	public void setContaLuzFiscalModalidadeTarifaria(String contaLuzFiscalModalidadeTarifaria) {
+		ContaLuzFiscalModalidadeTarifaria = contaLuzFiscalModalidadeTarifaria;
 	}
 	public void add(List<CadastroEnegia> energiadao) {
 		// TODO Auto-generated method stub
@@ -87,3 +174,5 @@ public class CadastroEnegia {
 
 
 
+	
+	

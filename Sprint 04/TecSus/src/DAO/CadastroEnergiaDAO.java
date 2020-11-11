@@ -8,7 +8,7 @@ import java.util.*;
 public class CadastroEnergiaDAO {
 	
 	 private Connection connection;
-	 	public String ContaLuzID;
+		public String ContaLuzID;
 		public String ContaLuzValorTotal;
 		public String ContaLuzDataVencimento; 
 		public String ContaLuzMes;
@@ -16,9 +16,22 @@ public class CadastroEnergiaDAO {
 		public String ContaLuzAnterior; 
 		public String ContaLuzAtual;
 		public String ContaLuzDiasFaturamento;
+		public String ContaLuzStatus;
 		public String ContaLuzPrevisaoProximaLuz;
-		public String ContaLuzAviso; 
-	 
+		public String ContaLuzValorFornecedor;
+		public String ContaLuzDataFaturamento;
+		public String ContaLuzAviso;
+		public String ContaLuzFiscalCFOP;
+		public String ContaLuzFiscalGrupo;
+		public String ContaLuzFiscalSubGrupo;
+		public String ContaLuzFiscalClasse;
+		public String ContaLuzFiscalSubClasse;
+		public String ContaLuzFiscalMulta;
+		public String ContaLuzFiscalJurosMulta;
+		public String ContaLuzFiscalTipoFornecimento;
+		public String ContaLuzFiscalModalidadeTarifaria;
+		
+		
 		public CadastroEnergiaDAO(){ 
 	    	
 	        this.connection = new Conexao().getConnection();

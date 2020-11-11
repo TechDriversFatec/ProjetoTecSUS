@@ -80,8 +80,7 @@ public class Menu {
 		btnEditarCli.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
-				TelaEditar window = new TelaEditar();
-				window.frame.setVisible(true);
+			
 			}
 		});
 		btnEditarCli.setBounds(549, 260, 129, 40);
