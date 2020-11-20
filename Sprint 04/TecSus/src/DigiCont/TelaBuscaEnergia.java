@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 import java.awt.Font;
 import javax.swing.JTextField;
 
-import DAO.CadastroAguaDAO;
+import DAO.CadastroEnergiaDAO;
 
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
@@ -72,7 +72,7 @@ public class TelaBuscaEnergia {
 		frmTelaBusca.getContentPane().add(lblNewLabel_1);
 		
 		JLabel lblNewLabel_1_1 = new JLabel("New label");
-		lblNewLabel_1_1.setIcon(new ImageIcon("D:\\Banco de Dados\\2\u00BA Semestre\\Projeto Integrador\\Sprint 03\\TecSus\\img\\IconAgua.png"));
+		lblNewLabel_1_1.setIcon(new ImageIcon("D:\\Banco de Dados\\2\u00BA Semestre\\Projeto Integrador\\Sprint 03\\TecSus\\img\\IconEnergia.png"));
 		lblNewLabel_1_1.setBounds(10, 11, 30, 30);
 		frmTelaBusca.getContentPane().add(lblNewLabel_1_1);
 		lblNewLabel_3.addActionListener(new ActionListener() {
@@ -88,17 +88,17 @@ public class TelaBuscaEnergia {
 		lblNewLabel_3.setForeground(Color.WHITE);
 		lblNewLabel_3.setBackground(Color.WHITE);
 		
-		JButton btnCadastrarFor = new JButton("Buscar");
-		btnCadastrarFor.addActionListener(new ActionListener() {
+		JButton btnBuscar = new JButton("Buscar");
+		btnBuscar.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				
 				
 			}
 		});
 		
-		btnCadastrarFor.setBounds(399, 313, 129, 40);
-		frmTelaBusca.getContentPane().add(btnCadastrarFor);
-		frmTelaBusca.setTitle("BUSCAR CONTA \u00C1GUA");
+		btnBuscar.setBounds(399, 313, 129, 40);
+		frmTelaBusca.getContentPane().add(btnBuscar);
+		frmTelaBusca.setTitle("BUSCAR CONTA ENERGIA");
 		frmTelaBusca.setResizable(false);
 		frmTelaBusca.setLocationRelativeTo(null);
 

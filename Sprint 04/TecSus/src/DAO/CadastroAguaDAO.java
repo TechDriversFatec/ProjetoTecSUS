@@ -1,12 +1,15 @@
 package DAO;
 
 import DigiCont.CadastroAgua;
+import DigiCont.CadastroCliente;
+
+import java.lang.System.Logger;
 import java.sql.*;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 import javax.swing.*;
 
 import com.mysql.cj.protocol.Resultset;
+import com.mysql.cj.x.protobuf.MysqlxNotice.Warning.Level;
 
 public class CadastroAguaDAO {
 
@@ -34,7 +37,7 @@ public class CadastroAguaDAO {
 	}
 
 	public void adiciona(CadastroAgua cadaguadao) {
-		String sql = "INSERT into contaagua(ContaAguaRGI, ContaAguaNConta, ContaAguaNConta, ContaAguaGrupo,ContaAguaMesRef, ContaAguaTipoLigacao, ContaAguaTipoFaturamento, ContaAguaConsumo, ContaAguaDataLeituraAtual, ContaAguaLeituraAtual, ContaAguaDataLeituraAnterior,  ContaAguaLeituraAnterior, ContaAguaObservacao, ContaAguaValorAgua, ContaAguaValorEsgoto, ContaAguaValorTotal  ) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)";
+		String sql = "INSERT INTO contaagua(ContaAguaRGI, ContaAguaNConta, ContaAguaGrupo, ContaAguaMesRef, ContaAguaTipoLigacao, ContaAguaTipoFaturamento, ContaAguaConsumo, ContaAguaDataLeituraAtual, ContaAguaLeituraAtual, ContaAguaDataLeituraAnterior,  ContaAguaLeituraAnterior, ContaAguaObservacao, ContaAguaValorAgua, ContaAguaValorEsgoto, ContaAguaValorTotal  ) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)";
 		try {
 			PreparedStatement stmt = connection.prepareStatement(sql);
 			stmt.setString(1, cadaguadao.getContaAguaRGI());
@@ -46,15 +49,76 @@ public class CadastroAguaDAO {
 			stmt.setString(7, cadaguadao.getContaAguaConsumo());
 			stmt.setString(8, cadaguadao.getContaAguaDataLeituraAtual());
 			stmt.setString(9, cadaguadao.getContaAguaLeituraAtual());
-			stmt.setString(10, cadaguadao.getContaAguaValorAgua());
-			stmt.setString(11, cadaguadao.getContaAguaValorEsgoto());
-			stmt.setString(12, cadaguadao.getContaAguaValorTotal());
+			stmt.setString(10, cadaguadao.getContaAguaDataLeituraAnterior());
+			stmt.setString(11, cadaguadao.getContaAguaLeituraAnterior());
+			stmt.setString(12, cadaguadao.getContaAguaObservacao());
+			stmt.setString(13, cadaguadao.getContaAguaValorAgua());
+			stmt.setString(14, cadaguadao.getContaAguaValorEsgoto());
+			stmt.setString(15, cadaguadao.getContaAguaValorTotal());
 
 			stmt.execute();
 			stmt.close();
 		} catch (SQLException u) {
 			throw new RuntimeException(u);
 		}
+
+	}
+
+	public List<CadastroAgua> getCadastroAgua(String ContaAguaRGI) {
+		this.connection = new Conexao().getConnection();
+		PreparedStatement stm = null;
+		ResultSet rset = null;
+
+		List<CadastroAgua> cadagua = new ArrayList<CadastroAgua>();
+
+		
+		try {
+			
+			stm = connection.prepareStatement("SELECT * FROM contaagua WHERE ContaAguaRGI LIKE ?");
+			stm.setString(1, "%" + ContaAguaRGI + "%");
+
+			rset = stm.executeQuery();
+
+			while (rset.next()) {
+
+				CadastroAgua contagua = new CadastroAgua();
+
+				contagua.setContaAguaRGI(rset.getString("ContaAguaRGI"));
+				contagua.setContaAguaNConta(rset.getString("ContaAguaNConta"));
+				contagua.setContaAguaGrupo(rset.getString("ContaAguaGrupo"));
+				contagua.setContaAguaMesRef(rset.getString("ContaAguaMesRef"));
+				contagua.setContaAguaTipoLigacao(rset.getString("ContaAguaTipoLigacao"));
+				contagua.setContaAguaTipoFaturamento(rset.getString("ContaAguaTipoFaturamento"));
+				contagua.setContaAguaConsumo(rset.getString("ContaAguaConsumo"));
+				contagua.setContaAguaDataLeituraAtual(rset.getString("ContaAguaDataLeituraAtual"));
+				contagua.setContaAguaLeituraAtual(rset.getString("ContaAguaLeituraAtual"));
+				contagua.setContaAguaDataLeituraAnterior(rset.getString("ContaAguaDataLeituraAnterior"));
+				contagua.setContaAguaLeituraAnterior(rset.getString("ContaAguaLeituraAnterior"));
+				contagua.setContaAguaObservacao(rset.getString("ContaAguaObservacao"));
+				contagua.setContaAguaValorAgua(rset.getString("ContaAguaValorAgua"));
+				contagua.setContaAguaValorEsgoto(rset.getString("ContaAguaValorEsgoto"));
+				contagua.setContaAguaValorTotal(rset.getString("ContaAguaValorTotal"));
+				cadagua.add(contagua);
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		} finally {
+		}
+		try {
+			if (rset != null) {
+				rset.close();
+			}
+			if (stm != null) {
+				stm.close();
+			}
+			if (connection != null) {
+				connection.close();
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return cadagua;
 	}
 
 }
+

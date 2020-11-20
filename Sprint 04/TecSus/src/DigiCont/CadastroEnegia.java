@@ -18,6 +18,7 @@ public class CadastroEnegia {
 	public String ContaLuzPrevisaoProximaLuz;
 	public String ContaLuzValorFornecedor;
 	public String ContaLuzDataFaturamento;
+	public String ContaLuzQtdkWh;
 	public String ContaLuzAviso;
 	public String ContaLuzFiscalCFOP;
 	public String ContaLuzFiscalGrupo;
@@ -29,10 +30,8 @@ public class CadastroEnegia {
 	public String ContaLuzFiscalTipoFornecimento;
 	public String ContaLuzFiscalModalidadeTarifaria;
 	
-	
 	//GETTER AND SETTERS
-	
-	
+
 	public String getContaLuzID() {
 		return ContaLuzID;
 	}
@@ -105,6 +104,12 @@ public class CadastroEnegia {
 	public void setContaLuzDataFaturamento(String contaLuzDataFaturamento) {
 		ContaLuzDataFaturamento = contaLuzDataFaturamento;
 	}
+	public String getContaLuzQtdkWh() {
+		return ContaLuzQtdkWh;
+	}
+	public void setContaLuzQtdkWh(String contaLuzQtdkWh) {
+		ContaLuzQtdkWh = contaLuzQtdkWh;
+	}
 	public String getContaLuzAviso() {
 		return ContaLuzAviso;
 	}
@@ -165,14 +170,9 @@ public class CadastroEnegia {
 	public void setContaLuzFiscalModalidadeTarifaria(String contaLuzFiscalModalidadeTarifaria) {
 		ContaLuzFiscalModalidadeTarifaria = contaLuzFiscalModalidadeTarifaria;
 	}
-	public void add(List<CadastroEnegia> energiadao) {
-		// TODO Auto-generated method stub
-		
-	}
 	
 }
-
-
-
 	
 	
+	
+

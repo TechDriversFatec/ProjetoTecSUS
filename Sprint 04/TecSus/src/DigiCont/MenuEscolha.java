@@ -1,6 +1,7 @@
 package DigiCont;
 
 import java.awt.EventQueue;
+import DAO.CadastroAguaDAO;
 
 import javax.swing.JFrame;
 import java.awt.Color;
@@ -24,6 +25,9 @@ public class MenuEscolha {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
+					CadastroAguaDAO cadae = new CadastroAguaDAO();
+					//cadae.getCadastroAgua();
+					
 					MenuEscolha window = new MenuEscolha();
 					window.frmMenuEscolherConta.setVisible(true);
 				} catch (Exception e) {
