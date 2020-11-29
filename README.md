@@ -68,7 +68,7 @@ Na quarta Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end d
 > - [Vídeo 01 - Sprint 01](https://drive.google.com/file/d/15jyLiNlI4ROETPznqx-H09QlZZ691C35/view?usp=sharing)
 > - [Vídeo 02 - Sprint 02](https://drive.google.com/file/d/1-VOfvdUczYAFusXxu059NvGZU7DiC1WN/view?usp=sharing)
 > - [Vídeo 03 - Sprint 03](https://drive.google.com/file/d/138vTd9Y3UENIxvIYrA-mT23AYv4N6KDY/view?usp=sharing)
->  - [Vídeo 04 - Sprint 04]()
+>  - [Vídeo 04 - Sprint 04](https://drive.google.com/file/d/1D_RnVtkcplxhukOujj_WjYmBBD-bCKFm/view?usp=sharing)
 
 
 ---
@@ -108,11 +108,11 @@ Na quarta Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyNTQwODMwLC0xMzE3NzQzOTQ0LC0xMD
-I1MDQzNDM5LDU5MzI1NDc2OCwtMTYxNDI3Nzk2OSwtMTQ3ODQw
-NTU1LDExOTQwMjQ0MjUsMjgyMDk2ODk3LC0zODQxNzQ4NSwtND
-Q3MDg2ODU0LDEzOTMxMDk4NzcsLTY0MjQ5MzI3OSwtNjQyNDkz
-Mjc5LDkwNDk4NjcyMiwxODQ2MjU1NDAwLC03MjA2NDE4ODgsLT
-ExOTYxMTYwMzIsMTYxOTcxNjc3NiwyMDY5ODAxNzY5LC0xMjU1
-ODE1NTEwXX0=
+eyJoaXN0b3J5IjpbMTY1MjYwOTE2Miw5OTI1NDA4MzAsLTEzMT
+c3NDM5NDQsLTEwMjUwNDM0MzksNTkzMjU0NzY4LC0xNjE0Mjc3
+OTY5LC0xNDc4NDA1NTUsMTE5NDAyNDQyNSwyODIwOTY4OTcsLT
+M4NDE3NDg1LC00NDcwODY4NTQsMTM5MzEwOTg3NywtNjQyNDkz
+Mjc5LC02NDI0OTMyNzksOTA0OTg2NzIyLDE4NDYyNTU0MDAsLT
+cyMDY0MTg4OCwtMTE5NjExNjAzMiwxNjE5NzE2Nzc2LDIwNjk4
+MDE3NjldfQ==
 -->
