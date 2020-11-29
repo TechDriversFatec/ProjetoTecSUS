@@ -13,6 +13,9 @@ import javax.swing.JLabel;
 import javax.swing.ImageIcon;
 import javax.swing.JInternalFrame;
 import javax.swing.border.MatteBorder;
+
+import modeloConnection.ConexaoBD;
+
 import java.awt.Color;
 import java.awt.Font;
 import javax.swing.JButton;
@@ -23,6 +26,9 @@ import javax.swing.SwingConstants;
 
 public class TelaPrincipal extends JFrame {
 
+	ConexaoBD conecta = new ConexaoBD ();
+	
+	
 	private JPanel contentPane;
 
 	/**
@@ -45,8 +51,10 @@ public class TelaPrincipal extends JFrame {
 	 * Create the frame.
 	 */
 	public TelaPrincipal() {
+		setResizable(false);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 782, 552);
+		setLocationRelativeTo(null);
 		
 		JMenuBar menuBar = new JMenuBar();
 		setJMenuBar(menuBar);
@@ -55,13 +63,30 @@ public class TelaPrincipal extends JFrame {
 		menuBar.add(jMenuContaAgua);
 		
 		JMenuItem jMenuItemCadAgua = new JMenuItem("Cadastro");
+		jMenuItemCadAgua.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				
+				FormContaAgua cadagua = new FormContaAgua();
+				cadagua.setVisible(true);
+				dispose();
+			}
+		});
 		jMenuContaAgua.add(jMenuItemCadAgua);
 		
 		JMenu jMenuContaLuz = new JMenu("Conta de Luz");
 		menuBar.add(jMenuContaLuz);
 		
 		JMenuItem jMenuItemCadLuz = new JMenuItem("Cadastro");
+		jMenuItemCadLuz.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				
+				FormContaEnergia cadenergia = new FormContaEnergia();
+				cadenergia.setVisible(true);
+				dispose();
+			}
+		});
 		jMenuContaLuz.add(jMenuItemCadLuz);
+		
 		
 		JMenu jMenuOpcoes = new JMenu("Op\u00E7\u00F5es");
 		menuBar.add(jMenuOpcoes);
@@ -97,6 +122,14 @@ public class TelaPrincipal extends JFrame {
 		jPanelInternalFrame.add(lblNewLabel_2);
 		
 		JButton jButtonCadLuz = new JButton("");
+		jButtonCadLuz.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				
+				FormContaEnergia cadenergia = new FormContaEnergia();
+				cadenergia.setVisible(true);
+				dispose();
+			}
+		});
 		jButtonCadLuz.setForeground(Color.WHITE);
 		jButtonCadLuz.setBackground(SystemColor.textHighlightText);
 		jButtonCadLuz.setIcon(new ImageIcon(TelaPrincipal.class.getResource("/imagens/IconEnergia - M\u00E9dio.png")));
@@ -104,6 +137,14 @@ public class TelaPrincipal extends JFrame {
 		jPanelInternalFrame.add(jButtonCadLuz);
 		
 		JButton jButtonCadAgua = new JButton("");
+		jButtonCadAgua.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				
+				FormContaAgua cadagua = new FormContaAgua();
+				cadagua.setVisible(true);
+				dispose();
+			}
+		});
 		jButtonCadAgua.setForeground(Color.WHITE);
 		jButtonCadAgua.setBackground(Color.WHITE);
 		jButtonCadAgua.setIcon(new ImageIcon(TelaPrincipal.class.getResource("/imagens/IconAgua - M\u00E9dio.png")));

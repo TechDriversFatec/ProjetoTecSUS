@@ -15,6 +15,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 import javax.swing.JTextField;
 import javax.swing.JPasswordField;
+import java.awt.Color;
 
 public class TelaLogin extends JFrame {
 
@@ -42,13 +43,17 @@ public class TelaLogin extends JFrame {
 	 * Create the frame.
 	 */
 	public TelaLogin() {
+		setForeground(Color.WHITE);
+		setBackground(Color.WHITE);
 		setResizable(false);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 504, 300);
 		contentPane = new JPanel();
+		contentPane.setBackground(Color.WHITE);
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
+		setLocationRelativeTo(null);
 		
 		JButton jButtonAcessar = new JButton("Login");
 		jButtonAcessar.addActionListener(new ActionListener() {
@@ -94,13 +99,9 @@ public class TelaLogin extends JFrame {
 		contentPane.add(jPasswordFieldSenha);
 		
 		JLabel jLabelLogo = new JLabel("");
-		jLabelLogo.setIcon(new ImageIcon(TelaLogin.class.getResource("/imagens/TecSUS.png")));
-		jLabelLogo.setBounds(54, 63, 128, 149);
+		jLabelLogo.setForeground(Color.WHITE);
+		jLabelLogo.setIcon(new ImageIcon(TelaLogin.class.getResource("/imagens/DIGI CONT.png")));
+		jLabelLogo.setBounds(10, 63, 210, 150);
 		contentPane.add(jLabelLogo);
-		
-		JLabel jLabelFundoLogin = new JLabel("");
-		jLabelFundoLogin.setIcon(new ImageIcon(TelaLogin.class.getResource("/imagens/fundotelaLogin.png")));
-		jLabelFundoLogin.setBounds(0, 0, 500, 265);
-		contentPane.add(jLabelFundoLogin);
 	}
 }
