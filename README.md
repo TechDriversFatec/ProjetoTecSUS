@@ -54,6 +54,14 @@ Na terceira Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end
 
 **Tempo da Sprint:** 19/10/2020 até 08/11/2020.
 
+[Sprint 04](https://github.com/assenvitor/ProjetoTecSUS/tree/master/Sprint%2004)
+
+- **Proposta:**
+
+Na quarta Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end de toda aplicação, utilizando a ferramenta Eclipse. O desenvolvimento do Back-end foi realizado a manipulação de dados para a gravação de algumas informações da conta de energi,. Também foi implementado a tela de opção de cadastro de conta, a divisão dos menus e a parte da criação do banco de dados.
+
+**Tempo da Sprint:** 19/10/2020 até 08/11/2020.
+
 ---
 
 ### VÍDEO DE APRESENTAÇÃO DAS ENTREGAS: :movie_camera:
@@ -98,11 +106,11 @@ Na terceira Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc3NDM5NDQsLTEwMjUwNDM0MzksNT
-kzMjU0NzY4LC0xNjE0Mjc3OTY5LC0xNDc4NDA1NTUsMTE5NDAy
-NDQyNSwyODIwOTY4OTcsLTM4NDE3NDg1LC00NDcwODY4NTQsMT
-M5MzEwOTg3NywtNjQyNDkzMjc5LC02NDI0OTMyNzksOTA0OTg2
-NzIyLDE4NDYyNTU0MDAsLTcyMDY0MTg4OCwtMTE5NjExNjAzMi
-wxNjE5NzE2Nzc2LDIwNjk4MDE3NjksLTEyNTU4MTU1MTAsLTgz
-MTk5MTA1MF19
+eyJoaXN0b3J5IjpbLTUyMDc5Mjc2MiwtMTMxNzc0Mzk0NCwtMT
+AyNTA0MzQzOSw1OTMyNTQ3NjgsLTE2MTQyNzc5NjksLTE0Nzg0
+MDU1NSwxMTk0MDI0NDI1LDI4MjA5Njg5NywtMzg0MTc0ODUsLT
+Q0NzA4Njg1NCwxMzkzMTA5ODc3LC02NDI0OTMyNzksLTY0MjQ5
+MzI3OSw5MDQ5ODY3MjIsMTg0NjI1NTQwMCwtNzIwNjQxODg4LC
+0xMTk2MTE2MDMyLDE2MTk3MTY3NzYsMjA2OTgwMTc2OSwtMTI1
+NTgxNTUxMF19
 -->
