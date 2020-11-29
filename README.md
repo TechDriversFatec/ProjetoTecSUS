@@ -58,9 +58,9 @@ Na terceira Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end
 
 - **Proposta:**
 
-Na quarta Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end de toda aplicação, utilizando a ferramenta Eclipse. O desenvolvimento do Back-end foi realizado a manipulação de dados para a gravação de algumas informações da conta de energi,. Também foi implementado a tela de opção de cadastro de conta, a divisão dos menus e a parte da criação do banco de dados.
+Na quarta Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end de toda aplicação, utilizando a ferramenta Eclipse. O desenvolvimento do Back-end foi realizado a manipulação de dados para a gravação de algumas informações da conta de energia e água,. Também foi implementado a opção de fazer a busca e a atualização dos dados das contas.
 
-**Tempo da Sprint:** 19/10/2020 até 08/11/2020.
+**Tempo da Sprint:** 09/11/2020 até 29/11/2020.
 
 ---
 
@@ -68,6 +68,8 @@ Na quarta Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end d
 > - [Vídeo 01 - Sprint 01](https://drive.google.com/file/d/15jyLiNlI4ROETPznqx-H09QlZZ691C35/view?usp=sharing)
 > - [Vídeo 02 - Sprint 02](https://drive.google.com/file/d/1-VOfvdUczYAFusXxu059NvGZU7DiC1WN/view?usp=sharing)
 > - [Vídeo 03 - Sprint 03](https://drive.google.com/file/d/138vTd9Y3UENIxvIYrA-mT23AYv4N6KDY/view?usp=sharing)
+>  - [Vídeo 04 - Sprint 04]()
+
 
 ---
 ### DOCUMENTAÇÃO: :book: 
@@ -106,11 +108,11 @@ Na quarta Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMDc5Mjc2MiwtMTMxNzc0Mzk0NCwtMT
-AyNTA0MzQzOSw1OTMyNTQ3NjgsLTE2MTQyNzc5NjksLTE0Nzg0
-MDU1NSwxMTk0MDI0NDI1LDI4MjA5Njg5NywtMzg0MTc0ODUsLT
-Q0NzA4Njg1NCwxMzkzMTA5ODc3LC02NDI0OTMyNzksLTY0MjQ5
-MzI3OSw5MDQ5ODY3MjIsMTg0NjI1NTQwMCwtNzIwNjQxODg4LC
-0xMTk2MTE2MDMyLDE2MTk3MTY3NzYsMjA2OTgwMTc2OSwtMTI1
-NTgxNTUxMF19
+eyJoaXN0b3J5IjpbOTkyNTQwODMwLC0xMzE3NzQzOTQ0LC0xMD
+I1MDQzNDM5LDU5MzI1NDc2OCwtMTYxNDI3Nzk2OSwtMTQ3ODQw
+NTU1LDExOTQwMjQ0MjUsMjgyMDk2ODk3LC0zODQxNzQ4NSwtND
+Q3MDg2ODU0LDEzOTMxMDk4NzcsLTY0MjQ5MzI3OSwtNjQyNDkz
+Mjc5LDkwNDk4NjcyMiwxODQ2MjU1NDAwLC03MjA2NDE4ODgsLT
+ExOTYxMTYwMzIsMTYxOTcxNjc3NiwyMDY5ODAxNzY5LC0xMjU1
+ODE1NTEwXX0=
 -->
