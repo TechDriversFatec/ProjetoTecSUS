@@ -106,9 +106,8 @@ Na quarta Sprint, a equipe continuou o desenvolvimento do Back-end e Front-end d
 > - [Lucas](https://github.com/LucasMonteiiroo)
 
 
-## Teste
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDY1MjM0MywxNjUyNjA5MTYyLDk5Mj
+eyJoaXN0b3J5IjpbMTMxODAzNzg1MiwxNjUyNjA5MTYyLDk5Mj
 U0MDgzMCwtMTMxNzc0Mzk0NCwtMTAyNTA0MzQzOSw1OTMyNTQ3
 NjgsLTE2MTQyNzc5NjksLTE0Nzg0MDU1NSwxMTk0MDI0NDI1LD
 I4MjA5Njg5NywtMzg0MTc0ODUsLTQ0NzA4Njg1NCwxMzkzMTA5
